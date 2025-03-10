@@ -9,7 +9,7 @@
                 "poster": "https://exemplo.com/poster_novos_filmes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_novos_filmes.jpg",
                 "description": "Últimos lançamentos em filmes",
-                "externallink": "https://github.io/seu_usuario/menu/novos_filmes.json"
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista"
             },
             {
                 "categories": "Filmes 4K",
