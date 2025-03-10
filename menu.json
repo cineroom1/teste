@@ -1,0 +1,37 @@
+[
+    {
+        "menu_title": "Filmes",
+        "poster": "https://exemplo.com/poster_filmes.jpg",
+        "fanart": "https://exemplo.com/fanart_filmes.jpg",
+        "subcategorias": [
+            {
+                "categories": "Novos Filmes",
+                "poster": "https://exemplo.com/poster_novos_filmes.jpg",
+                "backdrop": "https://exemplo.com/backdrop_novos_filmes.jpg",
+                "description": "Últimos lançamentos em filmes",
+                "externallink": "https://github.io/seu_usuario/menu/novos_filmes.json"
+            },
+            {
+                "categories": "Filmes 4K",
+                "poster": "https://exemplo.com/poster_4k.jpg",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Filmes com qualidade 4K",
+                "externallink": "https://github.io/seu_usuario/menu/filmes_4k.json"
+            }
+        ]
+    },
+    {
+        "menu_title": "Séries",
+        "poster": "https://exemplo.com/poster_series.jpg",
+        "fanart": "https://exemplo.com/fanart_series.jpg",
+        "subcategorias": [
+            {
+                "categories": "Séries Populares",
+                "poster": "https://exemplo.com/poster_series_populares.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
+                "description": "Séries mais assistidas",
+                "externallink": "https://github.io/seu_usuario/menu/series_populares.json"
+            }
+        ]
+    }
+]
