@@ -1,0 +1,67 @@
+[
+    {
+        "tmdb_id": 1064213,
+        "title": "Anora",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1fae15ec8d7bf113d4d061989ab381a383635b1"
+        ],
+        "year": 2024,
+        "genres": "Drama, Comédia, Romance",
+        "actors": [
+            {
+                "name": "Mikey Madison",
+                "photo": "https://image.tmdb.org/t/p/w185/b0HZr4Xa4pIR7MzTPXfIWvUZELx.jpg"
+            },
+            {
+                "name": "Mark Eydelshteyn",
+                "photo": "https://image.tmdb.org/t/p/w185/vlQh0PedEBjpNUIa0vdbWEQPV48.jpg"
+            },
+            {
+                "name": "Youri Borissov",
+                "photo": "https://image.tmdb.org/t/p/w185/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+            },
+            {
+                "name": "Karren Karagulian",
+                "photo": "https://image.tmdb.org/t/p/w185/rxyx8OFgShe0Kolptm5LpbsOUJj.jpg"
+            },
+            {
+                "name": "Vache Tovmasyan",
+                "photo": "https://image.tmdb.org/t/p/w185/cKHEEer9V0zK96f1gE0gvQ5IvZq.jpg"
+            }
+        ],
+        "rating": 7.093,
+        "director": "Sean Baker",
+        "runtime": 139,
+        "premiered": "2024-10-14",
+        "poster": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+        "synopsis": "Anora, uma jovem profissional do sexo que trabalha nas noites do Brooklyn, pode se tornar a Cinderela da sua própria história quando encontra e casa, por impulso, com o filho de um oligarca russo. Mas quando a notícia chega à Rússia, seu conto de fadas fica ameaçado com a chegada dos pais dele a Nova York para cancelar o casamento.",
+        "studio": "Cre Film"
+    },
+    {
+        "title": "Demolidor: Renascido",
+        "rate": 8.9,
+        "classification": "18",
+        "year": 2025,
+        "aired": "04/03/2025",
+        "sinopse": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
+        "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+        "studio": "Disney+",
+        "genres": "Drama, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 9.4,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 e 02 Meia Hora do Céu / Ótica",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    }
+                ]
+            }
+        ]
+    }
+]
