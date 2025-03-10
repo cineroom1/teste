@@ -10,7 +10,7 @@
         "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
         "studio": "Disney+",
         "genres": "Drama, Crime",
-	"type": "tvshow"
+        "type": "tvshow",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -22,7 +22,7 @@
                         "title": "01. Meia Hora do Céu",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
                     },
-					{
+                    {
                         "title": "02. Ótica",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
                     }
@@ -30,4 +30,4 @@
             }
         ]
     }
-]	
+]
