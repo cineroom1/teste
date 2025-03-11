@@ -12,10 +12,11 @@
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista"
             },
             {
-                "categories": "Coleçoes",
+                "categories": "Sagas",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com qualidade 4K",
+                "type": "set",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json"
             }
         ]
