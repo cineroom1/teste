@@ -1,40 +1,46 @@
 [
     {
-        "title": "Trilogia O Senhor dos Anéis",
-        "description": "A épica trilogia baseada nos livros de J.R.R. Tolkien.",
-        "poster": "https://exemplo.com/poster-senhor-dos-aneis.jpg",
-        "fanart": "https://exemplo.com/fanart-senhor-dos-aneis.jpg",
+        "title": "O Cavaleiro das Trevas: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/afR93PKtvUvZtUcpf5rNLkpVcTi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg",
+        "rate": 7.998333333333332,
+        "aired": "2005-06-10",
+        "year": "2012",
+        "description": "Trilogia de filmes dirigidos por Christopher Nolan.",
         "movies": [
             {
-                "tmdb_id": 120,
-                "title": "O Senhor dos Anéis: A Sociedade do Anel",
-                "url": ["https://exemplo.com/senhor-dos-aneis-1.mp4"],
-                "year": 2001,
-                "genres": ["Aventura", "Fantasia"],
-                "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
-                "poster": "https://exemplo.com/poster-senhor-dos-aneis-1.jpg",
-                "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-1.jpg"
+                "title": "Batman Begins",
+                "tmdb_id": 272,
+                "url": ["magnet=bdb6c2756149a63ed357382f07aa1148eeebbe89"],
+                "poster": "https://image.tmdb.org/t/p/w500/7kZTOqogz4Q8kXPsza9slUpcYMW.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+                "rate": 7.711,
+                "aired": "2005-06-10",
+                "year": "2005",
+                "plot": "Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime."
             },
             {
-                "tmdb_id": 121,
-                "title": "O Senhor dos Anéis: As Duas Torres",
-                "url": ["https://exemplo.com/senhor-dos-aneis-2.mp4"],
-                "year": 2002,
-                "genres": ["Aventura", "Fantasia"],
-                "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
-                "poster": "https://exemplo.com/poster-senhor-dos-aneis-2.jpg",
-                "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-2.jpg"
+                "title": "Batman: O Cavaleiro das Trevas",
+                "tmdb_id": 155,
+                "url": ["magnet=e9afedf42bef3dd8d990309ea84d3a7c583bbda1"],
+                "poster": "https://image.tmdb.org/t/p/w500/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/plDp52MirFHc2PMJRMNWoG0kfr3.jpg",
+                "rate": 8.5,
+                "aired": "2008-07-16",
+                "year": "2008",
+                "plot": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego."
             },
             {
-                "tmdb_id": 122,
-                "title": "O Senhor dos Anéis: O Retorno do Rei",
-                "url": ["https://exemplo.com/senhor-dos-aneis-3.mp4"],
-                "year": 2003,
-                "genres": ["Aventura", "Fantasia"],
-                "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
-                "poster": "https://exemplo.com/poster-senhor-dos-aneis-3.jpg",
-                "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-3.jpg"
+                "title": "Batman: O Cavaleiro das Trevas Ressurge",
+                "tmdb_id": 49026,
+                "url": ["magnet=7ad8e85fd5b276f142614c696492901ac38450bf"],
+                "poster": "https://image.tmdb.org/t/p/w500/w7KDOBOKoZNzZkiKInFBlqo7Cbg.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "rate": 7.784,
+                "aired": "2012-07-17",
+                "year": "2012",
+                "plot": "Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado."
             }
         ]
     }
-]
+]	
