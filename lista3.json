@@ -1,48 +1,80 @@
-[
-    {
-        "title": "Senhor dos Anéis",
-        "type": "collection",
-        "poster": "url_do_poster",
-        "backdrop": "url_do_backdrop",
-        "movies": [
-            {
-                "title": "O Senhor dos Anéis: A Sociedade do Anel",
-                "poster": "url_do_poster_filme_1",
-                "synopsis": "Sinopse do filme 1",
-                "rating": 8.8,
-                "year": 2001,
-                "studio": "Estúdio X",
-                "genres": ["Aventura", "Fantasia"],
-                "url": ["url_do_video_filme_1"]
-            },
-            {
-                "title": "O Senhor dos Anéis: As Duas Torres",
-                "poster": "url_do_poster_filme_2",
-                "synopsis": "Sinopse do filme 2",
-                "rating": 9.0,
-                "year": 2002,
-                "studio": "Estúdio Y",
-                "genres": ["Aventura", "Fantasia"],
-                "url": ["url_do_video_filme_2"]
-            }
-        ]
-    },
-    {
-        "title": "Harry Potter",
-        "type": "collection",
-        "poster": "url_do_poster",
-        "backdrop": "url_do_backdrop",
-        "movies": [
-            {
-                "title": "Harry Potter e a Pedra Filosofal",
-                "poster": "url_do_poster_filme_hp_1",
-                "synopsis": "Sinopse do filme HP 1",
-                "rating": 7.6,
-                "year": 2001,
-                "studio": "Estúdio Z",
-                "genres": ["Fantasia", "Aventura"],
-                "url": ["url_do_video_filme_hp_1"]
-            }
-        ]
-    }
-]
+{
+    "collections": [
+        {
+            "title": "Trilogia O Senhor dos Anéis",
+            "description": "A épica trilogia baseada nos livros de J.R.R. Tolkien.",
+            "poster": "https://exemplo.com/poster-senhor-dos-aneis.jpg",
+            "fanart": "https://exemplo.com/fanart-senhor-dos-aneis.jpg",
+            "movies": [
+                {
+                    "tmdb_id": 120,
+                    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+                    "url": ["https://exemplo.com/senhor-dos-aneis-1.mp4"],
+                    "year": 2001,
+                    "genres": ["Aventura", "Fantasia"],
+                    "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+                    "poster": "https://exemplo.com/poster-senhor-dos-aneis-1.jpg",
+                    "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-1.jpg"
+                },
+                {
+                    "tmdb_id": 121,
+                    "title": "O Senhor dos Anéis: As Duas Torres",
+                    "url": ["https://exemplo.com/senhor-dos-aneis-2.mp4"],
+                    "year": 2002,
+                    "genres": ["Aventura", "Fantasia"],
+                    "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+                    "poster": "https://exemplo.com/poster-senhor-dos-aneis-2.jpg",
+                    "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-2.jpg"
+                },
+                {
+                    "tmdb_id": 122,
+                    "title": "O Senhor dos Anéis: O Retorno do Rei",
+                    "url": ["https://exemplo.com/senhor-dos-aneis-3.mp4"],
+                    "year": 2003,
+                    "genres": ["Aventura", "Fantasia"],
+                    "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+                    "poster": "https://exemplo.com/poster-senhor-dos-aneis-3.jpg",
+                    "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-3.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Trilogia Batman - Christopher Nolan",
+            "description": "A trilogia do Batman dirigida por Christopher Nolan.",
+            "poster": "https://exemplo.com/poster-batman.jpg",
+            "fanart": "https://exemplo.com/fanart-batman.jpg",
+            "movies": [
+                {
+                    "tmdb_id": 155,
+                    "title": "Batman Begins",
+                    "url": ["https://exemplo.com/batman-begins.mp4"],
+                    "year": 2005,
+                    "genres": ["Ação", "Drama"],
+                    "actors": ["Christian Bale", "Michael Caine", "Liam Neeson"],
+                    "poster": "https://exemplo.com/poster-batman-begins.jpg",
+                    "backdrop": "https://exemplo.com/fanart-batman-begins.jpg"
+                },
+                {
+                    "tmdb_id": 49026,
+                    "title": "O Cavaleiro das Trevas",
+                    "url": ["https://exemplo.com/cavaleiro-das-trevas.mp4"],
+                    "year": 2008,
+                    "genres": ["Ação", "Drama"],
+                    "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+                    "poster": "https://exemplo.com/poster-cavaleiro-das-trevas.jpg",
+                    "backdrop": "https://exemplo.com/fanart-cavaleiro-das-trevas.jpg"
+                },
+                {
+                    "tmdb_id": 49047,
+                    "title": "O Cavaleiro das Trevas Ressurge",
+                    "url": ["https://exemplo.com/cavaleiro-das-trevas-ressurge.mp4"],
+                    "year": 2012,
+                    "genres": ["Ação", "Drama"],
+                    "actors": ["Christian Bale", "Tom Hardy", "Anne Hathaway"],
+                    "poster": "https://exemplo.com/poster-cavaleiro-das-trevas-ressurge.jpg",
+                    "backdrop": "https://exemplo.com/fanart-cavaleiro-das-trevas-ressurge.jpg"
+                }
+            ]
+        }
+    ]
+}
