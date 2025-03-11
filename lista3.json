@@ -7,6 +7,7 @@
         "aired": "2005-06-10",
         "year": "2012",
         "description": "Trilogia de filmes dirigidos por Christopher Nolan.",
+        "type": "set",
         "movies": [
             {
                 "title": "Batman Begins",
