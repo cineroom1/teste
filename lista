@@ -15,6 +15,49 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
         "synopsis": "Anora, uma jovem profissional do sexo que trabalha nas noites do Brooklyn, pode se tornar a Cinderela da sua própria história quando encontra e casa, por impulso, com o filho de um oligarca russo. Mas quando a notícia chega à Rússia, seu conto de fadas fica ameaçado com a chegada dos pais dele a Nova York para cancelar o casamento.",
         "studio": "Cre Film",
-		"type": "movie"
+	"type": "movie"
+    },
+    {
+        "tmdb_id": 7445,
+        "title": "Entre Irmaos",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a1b162b419a5259450664ada629a6b5357bf75c",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c972a957fa65d3ea944435dbd4425b4b1b098566",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fb196cda9b45985575e0a169f0dd893ff82cd4e"
+        ],
+        "year": 2009,
+        "genres": "Drama, Thriller, Guerra",
+        "actors": [
+            {
+                "name": "Tobey Maguire",
+                "photo": "https://image.tmdb.org/t/p/w185/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg"
+            },
+            {
+                "name": "Jake Gyllenhaal",
+                "photo": "https://image.tmdb.org/t/p/w185/btORQRDyGCF0KNweGGYpmQXZK3P.jpg"
+            },
+            {
+                "name": "Natalie Portman",
+                "photo": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+            },
+            {
+                "name": "Sam Shepard",
+                "photo": "https://image.tmdb.org/t/p/w185/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+            },
+            {
+                "name": "Mare Winningham",
+                "photo": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+            }
+        ],
+        "rating": 7.316,
+        "director": "Jim Sheridan",
+        "runtime": 105,
+        "premiered": "2009-12-02",
+        "poster": "https://image.tmdb.org/t/p/w500/buKRRR6Z6TztAuMUw7DUXCwn4hs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xERofiEyzGekTNi3oIppQvdLDZB.jpg",
+        "synopsis": "Sam Cahill tem tudo sob controle: uma carreira militar de sucesso, uma bela esposa e duas filhas. Seu irmão mais novo, é um vagabundo que vive no limite da lei. Quando Sam é enviado ao Afeganistão, em uma missão da ONU, a harmonia entre os dois irmãos muda para sempre. Sam some e sua esposa é consolada por seu irmão que, apesar de tudo, mostra que é capaz de assumir a responsabilidade por si próprio e pela família. Quando Sam volta para casa, traumatizado por ter ficado prisioneiro nas montanhas do Afeganistão, nada está como antes.",
+        "studio": "Lionsgate",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/jZsODN4kbqyl7Y5bGQrAVQ1MBLZ.png",
+        "type": "movie"
     }
 ]
