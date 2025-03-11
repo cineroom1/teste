@@ -13,8 +13,7 @@
                 "genres": ["Aventura", "Fantasia"],
                 "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
                 "poster": "https://exemplo.com/poster-senhor-dos-aneis-1.jpg",
-                "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-1.jpg",
-                "type": "movie"
+                "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-1.jpg"
             },
             {
                 "tmdb_id": 121,
@@ -25,7 +24,6 @@
                 "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
                 "poster": "https://exemplo.com/poster-senhor-dos-aneis-2.jpg",
                 "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-2.jpg"
-                "type": "movie"
             },
             {
                 "tmdb_id": 122,
@@ -36,7 +34,6 @@
                 "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
                 "poster": "https://exemplo.com/poster-senhor-dos-aneis-3.jpg",
                 "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-3.jpg"
-                "type": "movie"
             }
         ]
     }
