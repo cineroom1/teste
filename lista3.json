@@ -1,80 +1,40 @@
-{
-    "collections": [
-        {
-            "title": "Trilogia O Senhor dos Anéis",
-            "description": "A épica trilogia baseada nos livros de J.R.R. Tolkien.",
-            "poster": "https://exemplo.com/poster-senhor-dos-aneis.jpg",
-            "fanart": "https://exemplo.com/fanart-senhor-dos-aneis.jpg",
-            "movies": [
-                {
-                    "tmdb_id": 120,
-                    "title": "O Senhor dos Anéis: A Sociedade do Anel",
-                    "url": ["https://exemplo.com/senhor-dos-aneis-1.mp4"],
-                    "year": 2001,
-                    "genres": ["Aventura", "Fantasia"],
-                    "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
-                    "poster": "https://exemplo.com/poster-senhor-dos-aneis-1.jpg",
-                    "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-1.jpg"
-                },
-                {
-                    "tmdb_id": 121,
-                    "title": "O Senhor dos Anéis: As Duas Torres",
-                    "url": ["https://exemplo.com/senhor-dos-aneis-2.mp4"],
-                    "year": 2002,
-                    "genres": ["Aventura", "Fantasia"],
-                    "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
-                    "poster": "https://exemplo.com/poster-senhor-dos-aneis-2.jpg",
-                    "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-2.jpg"
-                },
-                {
-                    "tmdb_id": 122,
-                    "title": "O Senhor dos Anéis: O Retorno do Rei",
-                    "url": ["https://exemplo.com/senhor-dos-aneis-3.mp4"],
-                    "year": 2003,
-                    "genres": ["Aventura", "Fantasia"],
-                    "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
-                    "poster": "https://exemplo.com/poster-senhor-dos-aneis-3.jpg",
-                    "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-3.jpg"
-                }
-            ]
-        },
-        {
-            "title": "Trilogia Batman - Christopher Nolan",
-            "description": "A trilogia do Batman dirigida por Christopher Nolan.",
-            "poster": "https://exemplo.com/poster-batman.jpg",
-            "fanart": "https://exemplo.com/fanart-batman.jpg",
-            "movies": [
-                {
-                    "tmdb_id": 155,
-                    "title": "Batman Begins",
-                    "url": ["https://exemplo.com/batman-begins.mp4"],
-                    "year": 2005,
-                    "genres": ["Ação", "Drama"],
-                    "actors": ["Christian Bale", "Michael Caine", "Liam Neeson"],
-                    "poster": "https://exemplo.com/poster-batman-begins.jpg",
-                    "backdrop": "https://exemplo.com/fanart-batman-begins.jpg"
-                },
-                {
-                    "tmdb_id": 49026,
-                    "title": "O Cavaleiro das Trevas",
-                    "url": ["https://exemplo.com/cavaleiro-das-trevas.mp4"],
-                    "year": 2008,
-                    "genres": ["Ação", "Drama"],
-                    "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
-                    "poster": "https://exemplo.com/poster-cavaleiro-das-trevas.jpg",
-                    "backdrop": "https://exemplo.com/fanart-cavaleiro-das-trevas.jpg"
-                },
-                {
-                    "tmdb_id": 49047,
-                    "title": "O Cavaleiro das Trevas Ressurge",
-                    "url": ["https://exemplo.com/cavaleiro-das-trevas-ressurge.mp4"],
-                    "year": 2012,
-                    "genres": ["Ação", "Drama"],
-                    "actors": ["Christian Bale", "Tom Hardy", "Anne Hathaway"],
-                    "poster": "https://exemplo.com/poster-cavaleiro-das-trevas-ressurge.jpg",
-                    "backdrop": "https://exemplo.com/fanart-cavaleiro-das-trevas-ressurge.jpg"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "title": "Trilogia O Senhor dos Anéis",
+        "description": "A épica trilogia baseada nos livros de J.R.R. Tolkien.",
+        "poster": "https://exemplo.com/poster-senhor-dos-aneis.jpg",
+        "fanart": "https://exemplo.com/fanart-senhor-dos-aneis.jpg",
+        "movies": [
+            {
+                "tmdb_id": 120,
+                "title": "O Senhor dos Anéis: A Sociedade do Anel",
+                "url": ["https://exemplo.com/senhor-dos-aneis-1.mp4"],
+                "year": 2001,
+                "genres": ["Aventura", "Fantasia"],
+                "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+                "poster": "https://exemplo.com/poster-senhor-dos-aneis-1.jpg",
+                "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-1.jpg"
+            },
+            {
+                "tmdb_id": 121,
+                "title": "O Senhor dos Anéis: As Duas Torres",
+                "url": ["https://exemplo.com/senhor-dos-aneis-2.mp4"],
+                "year": 2002,
+                "genres": ["Aventura", "Fantasia"],
+                "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+                "poster": "https://exemplo.com/poster-senhor-dos-aneis-2.jpg",
+                "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-2.jpg"
+            },
+            {
+                "tmdb_id": 122,
+                "title": "O Senhor dos Anéis: O Retorno do Rei",
+                "url": ["https://exemplo.com/senhor-dos-aneis-3.mp4"],
+                "year": 2003,
+                "genres": ["Aventura", "Fantasia"],
+                "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+                "poster": "https://exemplo.com/poster-senhor-dos-aneis-3.jpg",
+                "backdrop": "https://exemplo.com/fanart-senhor-dos-aneis-3.jpg"
+            }
+        ]
+    }
+]
