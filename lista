@@ -59,5 +59,52 @@
         "studio": "Lionsgate",
         "clearlogo": "https://image.tmdb.org/t/p/w500/jZsODN4kbqyl7Y5bGQrAVQ1MBLZ.png",
         "type": "movie"
+    },
+    {
+        "title": "Casa de Davi",
+        "rate": 7.7,
+        "classification": "16",
+        "year": 2025,
+        "aired": "02/27/2025",
+        "sinopse": "Conta a história da ascensão do ícone bíblico Davi, que se torna o mais famoso rei de Israel. O outrora poderoso rei Saul é vítima de seu próprio orgulho. Seguindo as ordens de Deus, o profeta Samuel unge um pária adolescente como o novo rei.",
+        "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/83y6rp55fVjVaEq9KkRtG7MgS8U.jpg",
+        "studio": "Prime Video",
+        "genres": "Drama",
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 0,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 ao 03. Um Pastor e Um Rei / Um Abismo Chama Outro Abismo / A Unção",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
+                    },
+                    {
+                        "title": "1x04. A Canção de Moisés [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x05. O Lobo e o Leão [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x06. Gigantes Despertados [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x07. Davi e Golias - Parte 1 [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x08. Davi e Golias - Parte 2 [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    }
+                ]
+            }
+        ]
     }
 ]
