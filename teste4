@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA FHD
 http://analov.lat:80/cunher1/ercurs1/256376
 #EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA HD
@@ -8,7 +9,4 @@ http://analov.lat:80/cunher1/ercurs1/256376
 #EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA HD
 http://analov.lat:80/cunher1/ercurs1/256378
 #EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA 2 FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA 2 FHD
-http://analov.lat:80/cunher1/ercurs1/256373
-#EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA 2 HD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA 2 HD
-#EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA 2 FHD" tvg-logo="https://i.imgur.com/fDlower.png" group-title="BBB 25",ACOMPANHE A CASA 2 FHD
-http://analov.lat:80/cunher1/ercurs1/256373
+https://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
