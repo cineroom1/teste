@@ -1,7 +1,7 @@
 [
     {
     "menu_title": "Pesquisar",
-    "poster": "https://exemplo.com/poster_favoritos.jpg",
+    "poster": "https://archive.org/download/1700740365535/1700740365535.png",
     "fanart": "https://exemplo.com/fanart_favoritos.jpg",
     "icon": "https://exemplo.com/icone_favoritos.png",
     "action": "search_videos"
