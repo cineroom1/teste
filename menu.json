@@ -1,10 +1,10 @@
 [
     {
-    "menu_title": "Favoritos",
+    "menu_title": "Pesquisar",
     "poster": "https://exemplo.com/poster_favoritos.jpg",
     "fanart": "https://exemplo.com/fanart_favoritos.jpg",
     "icon": "https://exemplo.com/icone_favoritos.png",
-    "action": "list_favorites"
+    "action": "list_search"
     },
     {
         "menu_title": "Filmes",
