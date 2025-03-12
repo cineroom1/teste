@@ -7,11 +7,11 @@
     "action": "search_videos"
     },
     {
-        "menu_title": "Canais",
+        "menu_title": "Tv",
         "poster": "https://i.imgur.com/fDlower.png",
         "fanart": "https://i.imgur.com/fDlower.png",
         "action": "list_canais",
-        "externallink": "URL_DA_SUA_LISTA_M3U"
+        "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/teste4"
     },
     {
         "menu_title": "Filmes",
