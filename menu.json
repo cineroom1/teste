@@ -4,7 +4,7 @@
     "poster": "https://exemplo.com/poster_favoritos.jpg",
     "fanart": "https://exemplo.com/fanart_favoritos.jpg",
     "icon": "https://exemplo.com/icone_favoritos.png",
-    "action": "list_search"
+    "action": "search_videos"
     },
     {
         "menu_title": "Filmes",
