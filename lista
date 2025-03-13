@@ -61,50 +61,107 @@
         "type": "movie"
     },
     {
-        "title": "Casa de Davi",
-        "rate": 7.7,
-        "classification": "16",
-        "year": 2025,
-        "aired": "02/27/2025",
-        "sinopse": "Conta a história da ascensão do ícone bíblico Davi, que se torna o mais famoso rei de Israel. O outrora poderoso rei Saul é vítima de seu próprio orgulho. Seguindo as ordens de Deus, o profeta Samuel unge um pária adolescente como o novo rei.",
-        "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/83y6rp55fVjVaEq9KkRtG7MgS8U.jpg",
-        "studio": "Prime Video",
-        "genres": "Drama",
-        "type": "tvshow",
-        "temporadas": [
+        "tmdb_id": 1241982,
+        "title": "Moana 2",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17418aecb8ebb73721776b32951b74707d0aa403",
+			"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc48356bd09203c0a7e4c740a669c609669700fb"
+        ],
+        "year": 2024,
+        "genres": ["Animação, Aventura, Família, Comédia"],
+        "actors": [
             {
-                "title": "1ª Temporada",
-                "rate": 0,
-                "sinopse": "",
-                "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
-                "episodios": [
-                    {
-                        "title": "1x01 ao 03. Um Pastor e Um Rei / Um Abismo Chama Outro Abismo / A Unção",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
-                    },
-                    {
-                        "title": "1x04. A Canção de Moisés [Breve]",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    },
-                    {
-                        "title": "1x05. O Lobo e o Leão [Breve]",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    },
-                    {
-                        "title": "1x06. Gigantes Despertados [Breve]",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    },
-                    {
-                        "title": "1x07. Davi e Golias - Parte 1 [Breve]",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    },
-                    {
-                        "title": "1x08. Davi e Golias - Parte 2 [Breve]",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    }
-                ]
+                "name": "Auliʻi Cravalho",
+                "photo": "https://image.tmdb.org/t/p/w185/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg"
+            },
+            {
+                "name": "Dwayne Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+            },
+            {
+                "name": "Hualālai Chung",
+                "photo": "https://image.tmdb.org/t/p/w185/x2g5fdHqETY9dZgL4aB0QDP0boR.jpg"
+            },
+            {
+                "name": "Rose Matafeo",
+                "photo": "https://image.tmdb.org/t/p/w185/zQa39fMjbOTIsovbh1TBTJVlToz.jpg"
+            },
+            {
+                "name": "David Fane",
+                "photo": "https://image.tmdb.org/t/p/w185/tcozyaTgAa8rRmzc5qeht0loni6.jpg"
             }
-        ]
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/ulVUcVy919yt3IJKtmiJBzf4Kqt.jpg",
+        "rating": 6.8,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "director": "David G. Derrick Jr., Jason Hand, Dana Ledoux Miller",
+        "studio": "Walt Disney Pictures",
+        "runtime": 100,
+        "premiered": "2024-11-21",
+        "synopsis": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
+        "popularity": 137.318,
+        "clearlogo": "https://image.tmdb.org/t/p/w500/sFzVGobXVnazwttzOo34nx0c4vF.png"
+    },
+    {
+        "tmdb_id": 939243,
+        "title": "Sonic 3: O Filme",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aeecdea6debe2f7ffa20c904769d4ef0059cbfe7"
+        ],
+        "year": 2024,
+        "genres": ["Ação, Ficção científica, Comédia, Família"],
+        "actors": [
+            {
+                "name": "Jim Carrey",
+                "photo": "https://image.tmdb.org/t/p/w185/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+            },
+            {
+                "name": "Ben Schwartz",
+                "photo": "https://image.tmdb.org/t/p/w185/lJVYjPj0P6uvVxNrTy4xO2645D0.jpg"
+            },
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+            },
+            {
+                "name": "Idris Elba",
+                "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Colleen O'Shaughnessey",
+                "photo": "https://image.tmdb.org/t/p/w185/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg",
+        "rating": 7.7,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "director": "Jeff Fowler",
+        "studio": "Paramount Pictures",
+        "runtime": 110,
+        "premiered": "2024-12-19",
+        "synopsis": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.",
+        "popularity": 131.392,
+        "clearlogo": "https://image.tmdb.org/t/p/w500/wLosZmd6Ff3CYCiK07rYCbhY37y.png"
+    },
+    {
+        "tmdb_id": 823219,
+        "title": "Flow",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb6462f16e3e1b946e541cb2848a481a4225448"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/66Y6qdAmCTtzrtGSPrwHihIZP0W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+        "synopsis": "Gato é um animal solitário, mas quando seu lar é destruído por uma grande inundação, ele encontra refúgio em um barco habitado por diversas espécies, tendo que se juntar a elas apesar das diferenças.",
+        "studio": "Dream Well Studio",
+        "year": 2024,
+        "genres": ["Animação, Fantasia, Aventura"],
+        "actors": [],
+        "rating": 8.321,
+        "director": "Gints Zilbalodis",
+        "runtime": 85,
+        "premiered": "2024-08-29",
+        "popularity": 104.294,
+        "clearlogo": "https://image.tmdb.org/t/p/w500/vlFyxv76qifbH2ApYBnrjKxCYSe.png"
     }
+    
 ]
