@@ -9,7 +9,7 @@
         "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
         "studio": "Disney+",
-        "genres": "Drama, Crime",
+        "genres": ["Drama, Crime"],
         "type": "tvshow",
         "temporadas": [
             {
@@ -40,7 +40,7 @@
         "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/83y6rp55fVjVaEq9KkRtG7MgS8U.jpg",
         "studio": "Prime Video",
-        "genres": "Drama",
+        "genres": ["Drama"],
         "type": "tvshow",
         "temporadas": [
             {
