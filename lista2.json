@@ -9,7 +9,7 @@
         "synopsis": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
         "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
-        "studio": "Disney+",
+        "studio": ["Disney+"],
         "genres": ["Drama, Crime"],
         "type": "tvshow",
         "temporadas": [
@@ -41,7 +41,7 @@
         "sinopse": "Conta a história da ascensão do ícone bíblico Davi, que se torna o mais famoso rei de Israel. O outrora poderoso rei Saul é vítima de seu próprio orgulho. Seguindo as ordens de Deus, o profeta Samuel unge um pária adolescente como o novo rei.",
         "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/83y6rp55fVjVaEq9KkRtG7MgS8U.jpg",
-        "studio": "Prime Video",
+        "studio": ["Prime Video"],
         "genres": ["Drama"],
         "type": "tvshow",
         "temporadas": [
@@ -97,7 +97,7 @@
         "sinopse": "Se passa em uma comunidade idílica habitada por alguns dos indivíduos mais proeminentes do mundo. Mas um assassinato chocante acaba com essa tranquilidade, desencadeando uma investigação de alto risco.",
         "poster": "https://image.tmdb.org/t/p/original/wWoZDnP8eu4bpEnKF0WQ6VNF2j4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
-        "studio": "Hulu",
+        "studio": ["Hulu"],
         "genres": ["Drama, Crime"],
         "type": "tvshow",
         "temporadas": [
