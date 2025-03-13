@@ -76,5 +76,31 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "Paradise",
+        "rating": 7.7,
+        "classification": "16",
+        "year": 2025,
+        "aired": "26/01/2025",
+        "sinopse": "Se passa em uma comunidade idílica habitada por alguns dos indivíduos mais proeminentes do mundo. Mas um assassinato chocante acaba com essa tranquilidade, desencadeando uma investigação de alto risco.",
+        "poster": "https://image.tmdb.org/t/p/original/wWoZDnP8eu4bpEnKF0WQ6VNF2j4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
+        "studio": "Hulu",
+        "genres": ["Drama, Crime"],
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 6.8,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/rkwqy7uE0ORdUxDFNeVq7vpJORN.jpg",
+                "episodios": [
+                    {
+                        "title": "Paradise: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2120f60e2e8fd24dfd741a5fa4d92de989efe61"
+                    }
+                ]
+            }
+        ]
     }
 ]
