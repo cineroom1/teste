@@ -1,5 +1,6 @@
 [
     {
+        "tmdb_id": 202555,
         "title": "Demolidor: Renascido",
         "rating": 8.9,
         "classification": "18",
@@ -31,6 +32,7 @@
         ]
     },
     {
+        "tmdb_id": 243881,
         "title": "Casa de Davi",
         "rating": 7.7,
         "classification": "16",
@@ -86,7 +88,8 @@
         ]
     },
     {
-        "title": "Paradise",
+        "tmdb_id": 245927,
+        "title": "Paraiso",
         "rating": 7.8,
         "classification": "16",
         "year": 2025,
