@@ -6,7 +6,9 @@
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1fae15ec8d7bf113d4d061989ab381a383635b1"
         ],
         "year": 2024,
-        "genres": ["Drama, Comédia, Romance"],
+        "genres": [
+            "Drama, Comédia, Romance"
+        ],
         "rating": 7.093,
         "director": "Sean Baker",
         "runtime": 139,
@@ -15,7 +17,7 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
         "synopsis": "Anora, uma jovem profissional do sexo que trabalha nas noites do Brooklyn, pode se tornar a Cinderela da sua própria história quando encontra e casa, por impulso, com o filho de um oligarca russo. Mas quando a notícia chega à Rússia, seu conto de fadas fica ameaçado com a chegada dos pais dele a Nova York para cancelar o casamento.",
         "studio": "Cre Film",
-	"type": "movie"
+        "type": "movie"
     },
     {
         "tmdb_id": 7445,
@@ -26,7 +28,9 @@
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fb196cda9b45985575e0a169f0dd893ff82cd4e"
         ],
         "year": 2009,
-        "genres": ["Drama, Thriller, Guerra"],
+        "genres": [
+            "Drama, Thriller, Guerra"
+        ],
         "actors": [
             {
                 "name": "Tobey Maguire",
@@ -65,10 +69,12 @@
         "title": "Moana 2",
         "url": [
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17418aecb8ebb73721776b32951b74707d0aa403",
-			"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc48356bd09203c0a7e4c740a669c609669700fb"
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc48356bd09203c0a7e4c740a669c609669700fb"
         ],
         "year": 2024,
-        "genres": ["Animação, Aventura, Família, Comédia"],
+        "genres": [
+            "Animação, Aventura, Família, Comédia"
+        ],
         "actors": [
             {
                 "name": "Auliʻi Cravalho",
@@ -101,7 +107,7 @@
         "synopsis": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
         "popularity": 137.318,
         "clearlogo": "https://image.tmdb.org/t/p/w500/sFzVGobXVnazwttzOo34nx0c4vF.png",
-       "type": "movie"
+        "type": "movie"
     },
     {
         "tmdb_id": 939243,
@@ -110,7 +116,9 @@
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aeecdea6debe2f7ffa20c904769d4ef0059cbfe7"
         ],
         "year": 2024,
-        "genres": ["Ação, Ficção científica, Comédia, Família"],
+        "genres": [
+            "Ação, Ficção científica, Comédia, Família"
+        ],
         "actors": [
             {
                 "name": "Jim Carrey",
@@ -156,7 +164,9 @@
         "synopsis": "Gato é um animal solitário, mas quando seu lar é destruído por uma grande inundação, ele encontra refúgio em um barco habitado por diversas espécies, tendo que se juntar a elas apesar das diferenças.",
         "studio": "Dream Well Studio",
         "year": 2024,
-        "genres": ["Animação, Fantasia, Aventura"],
+        "genres": [
+            "Animação, Fantasia, Aventura"
+        ],
         "actors": [],
         "rating": 8.321,
         "director": "Gints Zilbalodis",
@@ -166,5 +176,4 @@
         "clearlogo": "https://image.tmdb.org/t/p/w500/vlFyxv76qifbH2ApYBnrjKxCYSe.png",
         "type": "movie"
     }
-    
 ]
