@@ -100,7 +100,8 @@
         "premiered": "2024-11-21",
         "synopsis": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
         "popularity": 137.318,
-        "clearlogo": "https://image.tmdb.org/t/p/w500/sFzVGobXVnazwttzOo34nx0c4vF.png"
+        "clearlogo": "https://image.tmdb.org/t/p/w500/sFzVGobXVnazwttzOo34nx0c4vF.png",
+       "type": "movie"
     },
     {
         "tmdb_id": 939243,
@@ -141,7 +142,8 @@
         "premiered": "2024-12-19",
         "synopsis": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.",
         "popularity": 131.392,
-        "clearlogo": "https://image.tmdb.org/t/p/w500/wLosZmd6Ff3CYCiK07rYCbhY37y.png"
+        "clearlogo": "https://image.tmdb.org/t/p/w500/wLosZmd6Ff3CYCiK07rYCbhY37y.png",
+        "type": "movie"
     },
     {
         "tmdb_id": 823219,
@@ -161,7 +163,8 @@
         "runtime": 85,
         "premiered": "2024-08-29",
         "popularity": 104.294,
-        "clearlogo": "https://image.tmdb.org/t/p/w500/vlFyxv76qifbH2ApYBnrjKxCYSe.png"
+        "clearlogo": "https://image.tmdb.org/t/p/w500/vlFyxv76qifbH2ApYBnrjKxCYSe.png",
+        "type": "movie"
     }
     
 ]
