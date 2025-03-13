@@ -50,7 +50,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
                 "episodios": [
                     {
-                        "title": "1x01 ao 03. Um Pastor e Um Rei / Um Abismo Chama Outro Abismo / A Unção",
+                        "title": "01. Um Pastor e Um Rei",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
+                    },
+                    {
+                        "title": "02. Um Abismo Chama Outro Abismo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
+                    },
+                    {
+                        "title": "03. A Unção",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
                     },
                     {
@@ -79,7 +87,7 @@
     },
     {
         "title": "Paradise",
-        "rating": 7.7,
+        "rating": 7.8,
         "classification": "16",
         "year": 2025,
         "aired": "26/01/2025",
@@ -88,6 +96,7 @@
         "backdrop": "https://image.tmdb.org/t/p/original/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
         "studio": "Hulu",
         "genres": ["Drama, Crime"],
+        "type": "tvshow",
         "temporadas": [
             {
                 "title": "1ª Temporada",
