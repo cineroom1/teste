@@ -24,7 +24,7 @@
                 "backdrop": "https://exemplo.com/backdrop_novos_filmes.jpg",
                 "description": "Últimos lançamentos em filmes",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista",
-				"sort_method": "year"
+		"sort_method": "year"
             },
             {
                 "categories": "Sagas",
@@ -32,7 +32,7 @@
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com qualidade 4K",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json",
-				"sort_method": "rate"
+		"sort_method": "rating"
             },
             {
                 "categories": "Generos",
@@ -61,7 +61,7 @@
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Séries mais assistidas",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista2.json",
-				"sort_method": "rate"
+		"sort_method": "rating"
             },
             {
                 "categories": "Generos",
