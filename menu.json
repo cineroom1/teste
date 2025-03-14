@@ -1,13 +1,13 @@
 [
     {
-    "menu_title": "Pesquisar",
-    "poster": "https://archive.org/download/1700740365535/1700740365535.png",
-    "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-    "icon": "https://exemplo.com/icone_favoritos.png",
-    "action": "search_videos"
+        "menu_title": "[COLOR yellow]Pesquisar[/COLOR]",
+        "poster": "https://archive.org/download/1700740365535/1700740365535.png",
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "icon": "https://exemplo.com/icone_favoritos.png",
+        "action": "search_videos"
     },
     {
-        "menu_title": "Tv",
+        "menu_title": "Canais",
         "poster": "https://w7.pngwing.com/pngs/12/837/png-transparent-brown-crt-tv-illustration-television-show-icon-tv-television-rectangle-media-thumbnail.png",
         "fanart": "",
         "action": "list_canais",
@@ -23,14 +23,16 @@
                 "poster": "https://exemplo.com/poster_novos_filmes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_novos_filmes.jpg",
                 "description": "Últimos lançamentos em filmes",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista"
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista",
+				"sort_method": "year"
             },
             {
                 "categories": "Sagas",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com qualidade 4K",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json"
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json",
+				"sort_method": "rate"
             },
             {
                 "categories": "Generos",
@@ -58,7 +60,8 @@
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Séries mais assistidas",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista2.json"
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista2.json",
+				"sort_method": "rate"
             },
             {
                 "categories": "Generos",
@@ -77,10 +80,10 @@
         ]
     },
     {
-    "menu_title": "Sobre",
-    "poster": "https://exemplo.com/poster_sobre.jpg",
-    "fanart": "https://exemplo.com/fanart_sobre.jpg",
-    "icon": "https://exemplo.com/icone_sobre.png",
-    "action": "show_about"
+        "menu_title": "Info",
+        "poster": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg",
+        "fanart": "https://exemplo.com/fanart_sobre.jpg",
+        "icon": "https://exemplo.com/icone_sobre.png",
+        "action": "show_about"
     }
 ]
