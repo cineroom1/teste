@@ -61,7 +61,7 @@
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Séries mais assistidas",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista2.json",
-		"sort_method": "rating"
+		"sort_method": "label"
             },
             {
                 "categories": "Generos",
