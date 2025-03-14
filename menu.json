@@ -53,7 +53,7 @@
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Estudios diversos de filmes",
-                "action": "list_year"
+                "action": "list_years"
             }	
         ]
     },
