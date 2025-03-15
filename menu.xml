@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <menu>
-    <status>off</status>
+    <status>on</status>
     
     <item>
         <menu_title>[COLOR yellow]Pesquisar[/COLOR]</menu_title>
