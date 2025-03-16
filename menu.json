@@ -95,14 +95,14 @@
         ]
     },
     {
-        "menu_title": "Favoritos",
+        "menu_title": "[COLOR gold]Favoritos[/COLOR]",
         "poster": "https://exemplo.com/poster_favoritos.jpg",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
-        "action": "listar_favoritos"
+        "action": "list_favorites"
     },
     {
-        "menu_title": "Info",
+        "menu_title": "[COLOR blue]Informações[/COLOR]",
         "poster": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg",
         "fanart": "https://exemplo.com/fanart_sobre.jpg",
         "icon": "https://exemplo.com/icone_sobre.png",
