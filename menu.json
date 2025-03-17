@@ -1,7 +1,5 @@
 [
-    {
-        "status": "off"
-    },
+    {"status": "on"},
     {
         "menu_title": "[COLOR yellow]Buscar[/COLOR]",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
@@ -108,7 +106,14 @@
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Streamings de series",
                 "action": "list_series_studios"
-            }
+            },
+            {
+            "categories": "Melhor Avaliação",
+            "poster": "https://exemplo.com/poster_series_rating.jpg",
+            "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
+            "description": "Séries ordenadas por avaliação",
+            "action": "list_series_by_rating"
+           }
         ]
     },
     {
