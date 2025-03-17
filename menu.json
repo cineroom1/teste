@@ -1,5 +1,7 @@
 [
-    {"status": "on"},
+    {
+        "status": "on"
+    },
     {
         "menu_title": "[COLOR yellow]Buscar[/COLOR]",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
@@ -26,7 +28,7 @@
                 "description": "Filmes mais assistidos",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista5.json"
             },
-			{
+            {
                 "categories": "2025",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
@@ -42,12 +44,12 @@
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json",
                 "sort_method": "rating"
             },
-			{
+            {
                 "categories": "4K Ultra Hd",
                 "poster": "https://exemplo.com/poster_colecoes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
                 "description": "Filmes com qualidade 4K",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json",
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json"
             },
             {
                 "categories": "Melhores Avaliados",
@@ -85,7 +87,7 @@
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista2.json",
                 "sort_method": "label"
             },
-			{
+            {
                 "categories": "2025",
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
