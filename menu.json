@@ -17,12 +17,11 @@
         "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/teste4"
     },
     {
-        "menu_title": "Random",
+        "menu_title": "Recomendaçoes",
         "poster": "https://exemplo.com/poster_filmes.jpg",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
-        "plot": "Filmes e Series aleatorios",
-        "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista5.json",
-        "sort_method": "rating"
+        "plot": "Files e series recomendados pelo addon",
+        "action": "list_recomended"
     },
     {
         "menu_title": "Filmes",
