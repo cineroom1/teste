@@ -1,4 +1,100 @@
 [
+     {
+        "tmdb_id": 1356039,
+        "title": "Contra-Ataque",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2981ca3adf764d3278748a3b40c1513fae1a7c72"
+        ],
+        "year": 2025,
+        "genres": [
+            "Ação",
+            "Aventura",
+            "Thriller"
+        ],
+        "actors": [
+            {
+                "name": "Luis Alberti",
+                "photo": "https://image.tmdb.org/t/p/w185/1uf6WXebWuL0oEMM2z8ulcnRro.jpg"
+            },
+            {
+                "name": "Noé Hernández",
+                "photo": "https://image.tmdb.org/t/p/w185/l3NXUy1x5buKHawSw4xye5JW8pl.jpg"
+            },
+            {
+                "name": "Leonardo Alonso",
+                "photo": "https://image.tmdb.org/t/p/w185/3SJUI4IeqjZfG7yNh76CbkQfzfg.jpg"
+            },
+            {
+                "name": "Luis Curiel",
+                "photo": "https://image.tmdb.org/t/p/w185/5FMxoburwNLvKlYIFPEoSLDDogu.jpg"
+            },
+            {
+                "name": "Guillermo Nava",
+                "photo": "https://image.tmdb.org/t/p/w185/yKMqnDsv4rfKYOg1t4EHkIDPywQ.jpg"
+            }
+        ],
+        "rating": 8.602,
+        "director": "Chava Cartas",
+        "runtime": 85,
+        "premiered": "2025-02-27",
+        "poster": "https://image.tmdb.org/t/p/w500/iQsMy1xn8NG1VfVWFpEhhAsp4pi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ixKQ55OL3S4Lm0wuKU0s09cVGpX.jpg",
+        "synopsis": "Uma missão de resgate faz surgir um novo inimigo, levando o capitão Guerrero e seus soldados de elite a enfrentar uma emboscada de um grupo criminoso.",
+        "studio": [
+            "Draco Films"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/w500/x4XNYmknLosDwfwuCbEzuuXYXFj.png",
+        "popularity": 39.916,
+        "type": "movie"
+    },
+    {
+        "tmdb_id": 402431,
+        "title": "Wicked",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69b8d5d67a7d12b65c481fd607b94853173360f9"
+        ],
+        "year": 2024,
+        "genres": [
+            "Drama",
+            "Romance",
+            "Fantasia"
+        ],
+        "actors": [
+            {
+                "name": "Cynthia Erivo",
+                "photo": "https://image.tmdb.org/t/p/w185/oQcFwHu50upW6Soz4Ycc9iHge1k.jpg"
+            },
+            {
+                "name": "Ariana Grande",
+                "photo": "https://image.tmdb.org/t/p/w185/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
+            },
+            {
+                "name": "Jeff Goldblum",
+                "photo": "https://image.tmdb.org/t/p/w185/o3PahuK7OmCI0RAQUq38CUBWYZ9.jpg"
+            },
+            {
+                "name": "Michelle Yeoh",
+                "photo": "https://image.tmdb.org/t/p/w185/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+            },
+            {
+                "name": "Jonathan Bailey",
+                "photo": "https://image.tmdb.org/t/p/w185/mZNzekZo8eaHMuXKgDTNLp0EvYM.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
+        "rating": 6.9,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+        "director": "Jon M. Chu",
+        "studio": [
+            "Universal Pictures"
+        ],
+        "runtime": 161,
+        "premiered": "2024-11-20",
+        "synopsis": "Elphaba é uma jovem como outra qualquer do Reino de Oz, mas incompreendida por causa de sua pele verde incomum e por ainda não ter descoberto seu verdadeiro poder. Sua rotina é tranquila e pouco interessante, mas ao iniciar seus estudos na Universidade de Shiz, seu destino encontra Glinda, uma jovem popular e ambiciosa, nascida em berço de ouro, que só quer garantir seus privilégios e ainda não conhece sua verdadeira alma. As duas iniciam uma inesperada amizade; no entanto, suas diferenças, como o desejo de Glinda pela popularidade e poder, e a determinação de Elphaba em permanecer fiel a si mesma, entram no caminho, o que pode perpetuar no futuro de cada uma e em como as pessoas de Oz as enxergam.",
+        "popularity": 39.872,
+        "clearlogo": "https://image.tmdb.org/t/p/w500/oeSUu0CjuohGO6oIiFkxn4xHbrt.png",
+        "type": "movie"
+    },
     {
         "tmdb_id": 1064213,
         "title": "Anora",
