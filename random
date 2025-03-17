@@ -40,5 +40,37 @@
         "popularity": 4.892,
         "clearlogo": "https://image.tmdb.org/t/p/w500/mHozi3OlnznzgY6KZhJAT6L2ekq.png",
         "type": "movie"
+    },
+    {
+        "tmdb_id": 202555,
+        "title": "Demolidor: Renascido",
+        "rating": 8.9,
+        "classification": "18",
+        "year": 2025,
+        "aired": "04/03/2025",
+        "synopsis": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
+        "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+        "studio": ["Disney+"],
+        "genres": ["Drama, Crime"],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 9.4,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+                "episodios": [
+                    {
+                        "title": "01. Meia Hora do Céu",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    },
+                    {
+                        "title": "02. Ótica",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    }
+                ]
+            }
+        ]
     }
   ]
