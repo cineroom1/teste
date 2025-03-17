@@ -28,6 +28,13 @@
                "year": 2025
             },
             {
+               "categories": "Melhor Avaliação",
+               "poster": "https://exemplo.com/poster_rating.jpg",
+               "backdrop": "https://exemplo.com/backdrop_rating.jpg",
+               "description": "Filmes ordenados por melhor avaliação",
+               "action": "list_movies_by_rating"
+            },
+            {
                 "categories": "Adicionados Recentemente",
                 "poster": "https://exemplo.com/poster_novos_filmes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_novos_filmes.jpg",
