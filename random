@@ -1,0 +1,44 @@
+[
+{
+        "tmdb_id": 122906,
+        "title": "Questao de Tempo",
+        "url": ["plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b02e99ceb43a150498f9028cb259ca6c899c6d18"],
+        "year": 2013,
+        "genres": [ "Drama","Romance","Fantasia"],
+        "actors": [
+            {
+                "name": "Domhnall Gleeson",
+                "photo": "https://image.tmdb.org/t/p/w185/uDbwncuKlqL0fAuucXSvgakJDrc.jpg"
+            },
+            {
+                "name": "Rachel McAdams",
+                "photo": "https://image.tmdb.org/t/p/w185/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
+            },
+            {
+                "name": "Bill Nighy",
+                "photo": "https://image.tmdb.org/t/p/w185/acbigDOU1L1vMWAL3Wf0r8h8qLA.jpg"
+            },
+            {
+                "name": "Tom Hollander",
+                "photo": "https://image.tmdb.org/t/p/w185/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+            },
+            {
+                "name": "Margot Robbie",
+                "photo": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/h3K9Mg9wRcs2gnK6QNfBAXyPMYQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fzZmcKQv7ZTGIiPvocPhNs3wUyK.jpg",
+        "director": "Richard Curtis",
+        "studio": [
+            "Universal Pictures"
+        ],
+        "rating": 7.917,
+        "runtime": 123,
+        "premiered": "2013-09-04",
+        "synopsis": "Ao completar 21 anos, Tim descobre que pode viajar no tempo e mudar o passado. Depois de usar o poder para conseguir uma namorada, ele precisa lidar com consequências inesperadas.",
+        "popularity": 4.892,
+        "clearlogo": "https://image.tmdb.org/t/p/w500/mHozi3OlnznzgY6KZhJAT6L2ekq.png",
+        "type": "movie"
+    }
+  ]
