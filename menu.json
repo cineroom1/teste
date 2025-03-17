@@ -17,6 +17,13 @@
         "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/teste4"
     },
     {
+        "menu_title": "Aleatorios",
+        "poster": "",
+        "fanart": "",
+        "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/random"
+        "sort_method": "rating"
+    },
+    {
         "menu_title": "Filmes",
         "poster": "https://exemplo.com/poster_filmes.jpg",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
