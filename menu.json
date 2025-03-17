@@ -20,7 +20,15 @@
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "subcategorias": [
             {
-                "categories": "Recem-adicionados",
+               "categories": "2025",
+               "poster": "https://exemplo.com/poster_4k.jpg",
+               "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+               "description": "Filmes lançados em 2025",
+               "action": "list_movies_by_specific_year",
+               "year": 2025
+            },
+            {
+                "categories": "Adicionados Recentemente",
                 "poster": "https://exemplo.com/poster_novos_filmes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_novos_filmes.jpg",
                 "description": "Últimos lançamentos em filmes",
@@ -28,15 +36,7 @@
                 "sort_method": "year"
             },
             {
-            "categories": "2025",
-            "poster": "https://exemplo.com/poster_4k.jpg",
-            "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-            "description": "Filmes lançados em 2025",
-            "action": "list_movies_by_year",
-            "year": 2025
-            },
-            {
-                "categories": "Sagas",
+                "categories": "Coleçoes",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com qualidade 4K",
@@ -51,14 +51,14 @@
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista5.json"
             },
             {
-                "categories": "Generos",
+                "categories": "Por Generos",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "generos diversos de filmes",
                 "action": "list_genres"
             },
             {
-                "categories": "Estudios",
+                "categories": "Por Estudios",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Estudios diversos de filmes",
