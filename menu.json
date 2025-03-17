@@ -85,6 +85,15 @@
         "poster": "https://exemplo.com/poster_series.jpg",
         "fanart": "https://exemplo.com/fanart_series.jpg",
         "subcategorias": [
+
+            {
+                "categories": "2025",
+                "poster": "https://exemplo.com/poster_series_populares.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
+                "description": "Séries de 2025",
+                "action": "list_series_by_specific_year",
+                "year": 2025
+            },
             {
                 "categories": "Séries Populares",
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
