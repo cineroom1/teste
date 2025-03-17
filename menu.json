@@ -20,21 +20,13 @@
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "subcategorias": [
             {
-                "categories": "Adicionados Recentemente",
-                "poster": "https://exemplo.com/poster_novos_filmes.jpg",
-                "backdrop": "https://exemplo.com/backdrop_novos_filmes.jpg",
-                "description": "Últimos lançamentos em filmes",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista",
-                "sort_method": "year"
-            },
-            {
                 "categories": "Filmes Populares",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes com qualidade 4K",
+                "description": "Filmes mais assistidos",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista5.json"
             },
-            {
+			{
                 "categories": "2025",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
@@ -43,39 +35,39 @@
                 "year": 2025
             },
             {
-                "categories": "Coleçoes",
-                "poster": "https://exemplo.com/poster_4k.jpg",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes com qualidade 4K",
+                "categories": "Trilogias e Coleções",
+                "poster": "https://exemplo.com/poster_colecoes.jpg",
+                "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
+                "description": "Franquias de filmes e coleções",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json",
                 "sort_method": "rating"
             },
+			{
+                "categories": "4K Ultra Hd",
+                "poster": "https://exemplo.com/poster_colecoes.jpg",
+                "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
+                "description": "Filmes com qualidade 4K",
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json",
+            },
             {
-                "categories": "Melhor Avaliação",
+                "categories": "Melhores Avaliados",
                 "poster": "https://exemplo.com/poster_rating.jpg",
                 "backdrop": "https://exemplo.com/backdrop_rating.jpg",
-                "description": "Filmes ordenados por melhor avaliação",
+                "description": "Filmes com as melhores avaliações",
                 "action": "list_movies_by_rating"
             },
             {
-                "categories": "Por Generos",
-                "poster": "https://exemplo.com/poster_4k.jpg",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "generos diversos de filmes",
+                "categories": "Por Gênero",
+                "poster": "https://exemplo.com/poster_generos.jpg",
+                "backdrop": "https://exemplo.com/backdrop_generos.jpg",
+                "description": "Filmes organizados por gênero",
                 "action": "list_genres"
             },
             {
-                "categories": "Por Estudios",
-                "poster": "https://exemplo.com/poster_4k.jpg",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Estudios diversos de filmes",
-                "action": "list_studios"
-            },
-            {
-                "categories": "Por ano",
-                "poster": "https://exemplo.com/poster_4k.jpg",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Estudios diversos de filmes",
+                "categories": "Por Ano",
+                "poster": "https://exemplo.com/poster_anos.jpg",
+                "backdrop": "https://exemplo.com/backdrop_anos.jpg",
+                "description": "Filmes organizados por ano de lançamento",
                 "action": "list_years"
             }
         ]
@@ -85,15 +77,6 @@
         "poster": "https://exemplo.com/poster_series.jpg",
         "fanart": "https://exemplo.com/fanart_series.jpg",
         "subcategorias": [
-
-            {
-                "categories": "2025",
-                "poster": "https://exemplo.com/poster_series_populares.jpg",
-                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "Séries de 2025",
-                "action": "list_series_by_specific_year",
-                "year": 2025
-            },
             {
                 "categories": "Séries Populares",
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
@@ -102,25 +85,33 @@
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista2.json",
                 "sort_method": "label"
             },
-            {
-            "categories": "Melhor Avaliação",
-            "poster": "https://exemplo.com/poster_series_rating.jpg",
-            "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
-            "description": "Séries ordenadas por avaliação",
-            "action": "list_series_by_rating"
-           },
-            {
-                "categories": "Por Generos",
+			{
+                "categories": "2025",
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "generos de series",
+                "description": "Séries de 2025",
+                "action": "list_series_by_specific_year",
+                "year": 2025
+            },
+            {
+                "categories": "Melhores Avaliadas",
+                "poster": "https://exemplo.com/poster_series_rating.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
+                "description": "Séries com as melhores avaliações",
+                "action": "list_series_by_rating"
+            },
+            {
+                "categories": "Por Gênero",
+                "poster": "https://exemplo.com/poster_series_generos.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_generos.jpg",
+                "description": "Séries organizadas por gênero",
                 "action": "list_series_genres"
             },
             {
-                "categories": "Por Streamings",
-                "poster": "https://exemplo.com/poster_series_populares.jpg",
-                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "Streamings de series",
+                "categories": "Por Plataforma",
+                "poster": "https://exemplo.com/poster_series_plataformas.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
+                "description": "Séries organizadas por plataforma de streaming",
                 "action": "list_series_studios"
             }
         ]
