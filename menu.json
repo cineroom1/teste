@@ -20,12 +20,20 @@
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "subcategorias": [
             {
-                "categories": "Novos Filmes",
+                "categories": "Recem-adicionados",
                 "poster": "https://exemplo.com/poster_novos_filmes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_novos_filmes.jpg",
                 "description": "Últimos lançamentos em filmes",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista",
                 "sort_method": "year"
+            },
+            {
+            "categories": "2025",
+            "poster": "https://exemplo.com/poster_4k.jpg",
+            "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+            "description": "Filmes lançados em 2025",
+            "action": "list_movies_by_year",
+            "year": 2025
             },
             {
                 "categories": "Sagas",
