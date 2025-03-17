@@ -8,11 +8,11 @@
         "action": "search_videos"
     },
     {
-        "menu_title": "Recomendados",
+        "menu_title": "[COLOR green]Recomendações[/COLOR]",
         "poster": "https://exemplo.com/poster_filmes.jpg",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
-        "action": "recomendados"
+        "action": "list_recommendations"
     },
     {
         "menu_title": "Canais",
