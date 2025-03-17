@@ -1,5 +1,7 @@
 [
-    {"status": "on"},
+    {
+        "status": "off"
+    },
     {
         "menu_title": "[COLOR yellow]Buscar[/COLOR]",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
@@ -27,7 +29,6 @@
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista",
                 "sort_method": "year"
             },
-			,
             {
                 "categories": "Filmes Populares",
                 "poster": "https://exemplo.com/poster_4k.jpg",
@@ -35,13 +36,13 @@
                 "description": "Filmes com qualidade 4K",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista5.json"
             },
-			{
-               "categories": "2025",
-               "poster": "https://exemplo.com/poster_4k.jpg",
-               "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-               "description": "Filmes lançados em 2025",
-               "action": "list_movies_by_specific_year",
-               "year": 2025
+            {
+                "categories": "2025",
+                "poster": "https://exemplo.com/poster_4k.jpg",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Filmes lançados em 2025",
+                "action": "list_movies_by_specific_year",
+                "year": 2025
             },
             {
                 "categories": "Coleçoes",
@@ -51,12 +52,12 @@
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json",
                 "sort_method": "rating"
             },
-			{
-               "categories": "Melhor Avaliação",
-               "poster": "https://exemplo.com/poster_rating.jpg",
-               "backdrop": "https://exemplo.com/backdrop_rating.jpg",
-               "description": "Filmes ordenados por melhor avaliação",
-               "action": "list_movies_by_rating"
+            {
+                "categories": "Melhor Avaliação",
+                "poster": "https://exemplo.com/poster_rating.jpg",
+                "backdrop": "https://exemplo.com/backdrop_rating.jpg",
+                "description": "Filmes ordenados por melhor avaliação",
+                "action": "list_movies_by_rating"
             },
             {
                 "categories": "Por Generos",
