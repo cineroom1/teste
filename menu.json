@@ -183,11 +183,11 @@
                 "action": "list_novela_series"
             },
             {
-                "categories": "Ordem Alfabética",
+                "categories": "Todas as Séries",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Todas as Séries em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/series/exemplo1_series.json",
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/series/exemplo2_series.json",
                 "sort_method": "label"
             }
         ]
