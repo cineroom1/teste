@@ -1,13 +1,15 @@
 [
-    {"status": "on"},
+    {
+        "status": "on"
+    },
     {
         "tmdb_id": 311324,
         "popularity": 7.6508,
         "trending": false,
-		    "4K": true,
+        "4K": true,
         "title": "A Grande Muralha",
         "url": [
-		        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6d5965330631b0df81f4d984be008ef2ddb01c4(4K - DUAL AUDIO)",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6d5965330631b0df81f4d984be008ef2ddb01c4(4K - DUAL AUDIO)",
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11240554b0badd5792c5d16c49806f70079ad519(1080P - DUAL AUDIO)"
         ],
         "year": 2016,
@@ -76,8 +78,77 @@
             "bold"
         ],
         "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=N7v-7-yCuNw"
+    },
+    {
+        "tmdb_id": 3580,
+        "popularity": 3.4712,
+        "trending": false,
+        "title": "A Troca",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7223ba985aea08d6ec90dee675d26e7d1b5fb9(720P - DUAL AUDIO)"
+        ],
+        "year": 2008,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mistério"
+        ],
+        "actors": [
+            "Angelina Jolie",
+            "John Malkovich",
+            "Jeffrey Donovan",
+            "Michael Kelly",
+            "Colm Feore"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/feBAF48a6hmOr3KMlrxwGzlHCbK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eBmIaAm1CkBuuyIUQYorhQKzTTg.jpg",
+        "director": [
+            "Clint Eastwood"
+        ],
+        "studio": [
+            "Universal Pictures",
+            "Imagine Entertainment",
+            "Relativity Media",
+            "Malpaso Productions"
+        ],
+        "rating": 7.6,
+        "runtime": 141,
+        "premiered": "2008-10-24",
+        "synopsis": "Los Angeles, março de 1928. Christine Collins, uma mãe solteira, se despede de Walter, seu filho de 9 anos, e parte rumo ao trabalho. Ao retornar descobre que Walter desapareceu, o que faz com que inicie uma busca exaustiva. Cinco meses depois a polícia traz uma criança, dizendo ser Walter. Atordoada pela emoção da situação, além da presença de policiais e jornalistas que desejam tirar proveito da repercussão do caso, Christine aceita a criança. Porém, no íntimo, ela sabe que ele não é Walter e, com isso, pressiona as autoridades para que continuem as buscas por ele.",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/7K1NB1wF9p4KVYea8p9hBChEChs.png",
+        "type": "movie",
+        "providers": [],
+        "original_language": "en",
+        "status": "Released",
+        "collection": null,
+        "vote_count": 4272,
+        "imdb_id": "tt0824747",
+        "revenue": 113400000,
+        "certification": "16",
+        "keywords": [
+            "biography",
+            "based on true story",
+            "clergyman",
+            "child in peril",
+            "police corruption",
+            "los angeles, california",
+            "single mother",
+            "street urchin",
+            "missing child",
+            "mental asylum",
+            "mental hospital",
+            "shock treatment",
+            "1920s",
+            "missing son",
+            "mother son relationship",
+            "desperate woman",
+            "disbelieving cop",
+            "child abduction",
+            "telephone switchboard operator",
+            "female hysteria",
+            "police coverup",
+            "apathetic"
+        ],
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=Nb_k_nhpATo"
     }
-
-
-  
 ]
