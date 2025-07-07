@@ -1,0 +1,47 @@
+[
+    {
+        "status": "on"
+    },
+    {
+        "tmdb_id": 90802,
+        "title": "Sandman",
+        "rating": 7.9,
+        "classification": "18",
+        "year": 2022,
+        "premiered": "05/08/2022",
+        "date_added": "2025-07-03",
+        "synopsis": "Após anos aprisionado, Morpheus, o Rei dos Sonhos, embarca em uma jornada entre mundos para recuperar o que lhe foi roubado e restaurar seu poder.",
+        "poster": "https://image.tmdb.org/t/p/original/5k1PlMiep3mg1BwIc7P4RZlu3WI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/gzps6OMJAL9Hz1tVlLs4oi4Q4Qt.png",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Sci-Fi & Fantasy",
+            "Drama",
+            "Action & Adventure"
+        ],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.1,
+                "synopsis": "Após anos aprisionado, Morpheus, o Rei dos Sonhos, embarca em uma jornada entre mundos para recuperar o que lhe foi roubado e restaurar seu poder.",
+                "poster": "https://image.tmdb.org/t/p/original/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/temporadas/Sandman%20%2890802%29/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 9.4,
+                "synopsis": "Depois de mais de um século afastado do Sonhar, o Sonho vem restaurando e reconstruindo seu reino. Enquanto transforma o palácio, ele jura deixar o passado para trás e olhar para o futuro. O passado, é claro, tem outros planos.",
+                "poster": "https://image.tmdb.org/t/p/original/5k1PlMiep3mg1BwIc7P4RZlu3WI.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/temporadas/Sandman%20%2890802%29/temporada_2.json"
+            }
+        ]
+    }
+]
