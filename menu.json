@@ -18,7 +18,7 @@
         "fanart": "https://exemplo.com/fanart_recentes.jpg",
         "icon": "https://exemplo.com/icone_recentes.png",
         "action": "list_by_date_added",
-		"status": "on",
+        "status": "on",
         "description": "Veja os filmes e séries adicionados recentemente ao catálogo."
     },
     {
@@ -86,33 +86,33 @@
                 "description": "Estudios diversos de filmes",
                 "action": "list_studios"
             },
-			{
+            {
                 "categories": "Por Região",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com base no pais de origem",
                 "action": "list_countries"
             },
-			{
+            {
                 "categories": "Maiores Bilheterias",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com as maiories bilheterias",
-				"action": "list_movies_by_revenue"
+                "action": "list_movies_by_revenue"
             },
-			{
+            {
                 "categories": "Por Tópico",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filtre por Palavra-chave",
-				"action": "list_keywords"
+                "action": "list_keywords"
             },
             {
                 "categories": "Todos os Filmes",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Todos os Filmes em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/series/todos_filmes.json",
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/todos_filmes.json",
                 "sort_method": "label"
             }
         ]
@@ -123,7 +123,7 @@
         "poster": "https://archive.org/download/em_alta/series.png",
         "fanart": "https://exemplo.com/fanart_series.jpg",
         "status": "on",
-		"description": "Variedade incrivel de Séries disponiveis para voce",
+        "description": "Variedade incrivel de Séries disponiveis para voce",
         "subcategorias": [
             {
                 "categories": "2025",
@@ -198,10 +198,10 @@
         "poster": "https://archive.org/download/em_alta/minha_lista.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "action": "list_favorites",
-		"description": "Aba exclusiva para salvar seus Filmes e Séries favortias!",
+        "description": "Aba exclusiva para salvar seus Filmes e Séries favortias!",
         "status": "on"
     },
-	{
+    {
         "menu_title": "Doação",
         "menu_key": "Doação",
         "poster": "https://archive.org/download/em_alta/doa%C3%A7%C3%A3o.png",
@@ -216,7 +216,7 @@
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "clear_cache",
-		"description": "O Cache é recarregado a cada 12 / 24 Horas. Não limpe com frequencia!",
+        "description": "O Cache é recarregado a cada 12 / 24 Horas. Não limpe com frequencia!",
         "status": "on"
     }
 ]
