@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "users": [
+    { "user": "exemplo", "password": "1234" }
+  ]
+}
