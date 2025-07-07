@@ -9,7 +9,7 @@
         "classification": "18",
         "year": 2022,
         "premiered": "05/08/2022",
-        "date_added": "2025-07-03",
+        "date_added": "2025-07-07",
         "synopsis": "Após anos aprisionado, Morpheus, o Rei dos Sonhos, embarca em uma jornada entre mundos para recuperar o que lhe foi roubado e restaurar seu poder.",
         "poster": "https://image.tmdb.org/t/p/original/5k1PlMiep3mg1BwIc7P4RZlu3WI.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg",
@@ -29,18 +29,45 @@
         "type": "tvshow",
         "temporadas": [
             {
-                "title": "1ª Temporada",
-                "rating": 7.1,
-                "synopsis": "Após anos aprisionado, Morpheus, o Rei dos Sonhos, embarca em uma jornada entre mundos para recuperar o que lhe foi roubado e restaurar seu poder.",
-                "poster": "https://image.tmdb.org/t/p/original/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/cineroom1/teste/main/series/temporadas/Sandman%20%2890802%29/temporada_1.json"
-            },
-            {
                 "title": "2ª Temporada",
                 "rating": 9.4,
                 "synopsis": "Depois de mais de um século afastado do Sonhar, o Sonho vem restaurando e reconstruindo seu reino. Enquanto transforma o palácio, ele jura deixar o passado para trás e olhar para o futuro. O passado, é claro, tem outros planos.",
                 "poster": "https://image.tmdb.org/t/p/original/5k1PlMiep3mg1BwIc7P4RZlu3WI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/cineroom1/teste/main/series/temporadas/Sandman%20%2890802%29/temporada_2.json"
+            }
+        ]
+    },
+    {
+        "tmdb_id": 202555,
+        "popularity": 78.0772,
+        "trending": true,
+        "title": "Demolidor: Renascido",
+        "rating": 8.9,
+        "classification": "18",
+        "year": 2025,
+        "premiered": "04/03/2025",
+        "date_added": "2025-07-04",
+        "synopsis": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
+        "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/bIicKWq8XjsvIqm5loJn8mD2HgD.png",
+        "studio": [
+            "Disney+"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 9.4,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/cineroom1/teste/main/series/temporadas/Demolidor%20Renascido%20(202555)/temporada_1.json"
             }
         ]
     }
