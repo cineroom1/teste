@@ -1,0 +1,83 @@
+[
+    {"status": "on"},
+    {
+        "tmdb_id": 311324,
+        "popularity": 7.6508,
+        "trending": false,
+		    "4K": true,
+        "title": "A Grande Muralha",
+        "url": [
+		        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6d5965330631b0df81f4d984be008ef2ddb01c4(4K - DUAL AUDIO)",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11240554b0badd5792c5d16c49806f70079ad519(1080P - DUAL AUDIO)"
+        ],
+        "year": 2016,
+        "genres": [
+            "Ação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "actors": [
+            "Matt Damon",
+            "景甜",
+            "Willem Dafoe",
+            "劉德華",
+            "Pedro Pascal"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/nCIZ40JJzaXeitNXSnlKGpc9cmT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/th26RNksfM9nn7DPH06OqiV6BA2.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/5oS0W0VQfGRf1MpEICdvnaRWbuE.png",
+        "director": [
+            "Yimou Zhang"
+        ],
+        "studio": [
+            "Legendary East",
+            "Universal Pictures",
+            "Atlas Entertainment",
+            "Le Vision Pictures",
+            "Kava Productions",
+            "China Film Group Corporation",
+            "dentsu",
+            "Fuji Television Network",
+            "Legendary Pictures",
+            "Taurus Film"
+        ],
+        "rating": 6.032,
+        "runtime": 104,
+        "premiered": "2016-12-16",
+        "synopsis": "No século XV, William e Tovar são dois mercenários em busca de “pó negro” (pólvora). Depois de escaparem do ataque de uma criatura misteriosa, eles se encontram, acidentalmente, aos pés da Grande Muralha. Lá, eles acabam aprisionados pelos guerreiros chineses, que estão na iminência de sofrerem um ataque. Reza a lenda que, a cada 60 anos, uma horda de monstros tenta transpassar a barreira, para se alimentar dos humanos que vivem do outro lado.",
+        "type": "movie",
+        "providers": [
+            "Amazon Prime Video",
+            "Netflix",
+            "Globoplay",
+            "Telecine Amazon Channel"
+        ],
+        "original_language": "en",
+        "status": "Released",
+        "collection": null,
+        "vote_count": 5272,
+        "imdb_id": "tt2034800",
+        "revenue": 331957105,
+        "certification": "12",
+        "keywords": [
+            "monster",
+            "china",
+            "archer",
+            "female soldier",
+            "historical fiction",
+            "explosion",
+            "period drama",
+            "british soldier",
+            "great wall of china",
+            "15th century",
+            "female general",
+            "war",
+            "appreciative",
+            "bold"
+        ],
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=N7v-7-yCuNw"
+    }
+
+
+  
+]
