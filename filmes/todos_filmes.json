@@ -6,6 +6,7 @@
         "tmdb_id": 311324,
         "popularity": 7.6508,
         "trending": false,
+        "dublado": true,
         "4K": true,
         "title": "A Grande Muralha",
         "url": [
@@ -83,6 +84,7 @@
         "tmdb_id": 3580,
         "popularity": 3.4712,
         "trending": false,
+        "legendado": true,
         "title": "A Troca",
         "url": [
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7223ba985aea08d6ec90dee675d26e7d1b5fb9(720P - DUAL AUDIO)"
@@ -150,5 +152,95 @@
             "apathetic"
         ],
         "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=Nb_k_nhpATo"
+    },
+    {
+        "tmdb_id": 539,
+        "popularity": 9.4406,
+        "trending": false,
+        "classic": true,
+        "title": "Psicose",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a7c5121b9f7f8003999a5e2809693b56c45d81(DUAL AUDIO)"
+        ],
+        "year": 1960,
+        "genres": [
+            "Terror",
+            "Thriller",
+            "Mistério"
+        ],
+        "actors": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles",
+            "John Gavin",
+            "Martin Balsam"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/oC2iYT2on8c2iZnehah1l6AWqGu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+        "director": [
+            "Alfred Hitchcock"
+        ],
+        "studio": [
+            "Shamley Productions"
+        ],
+        "rating": 8.422,
+        "runtime": 109,
+        "premiered": "1960-06-22",
+        "synopsis": "Marion Crane é uma secretária que rouba 40 mil dólares da imobiliária onde trabalha para se casar e começar uma nova vida. Durante a fuga à carro, ela enfrenta uma forte tempestade, erra o caminho e chega em um velho hotel. O estabelecimento é administrado por um sujeito atencioso chamado Norman Bates, que nutre um forte respeito e temor por sua mãe. Marion decide passar a noite no local, sem saber o perigo que a cerca.",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/dwxoFJURrHqHSgsVi3Dp6K7M4gM.png",
+        "type": "movie",
+        "providers": [
+            "Claro video",
+            "Globoplay",
+            "Oldflix",
+            "Claro tv+",
+            "Telecine Amazon Channel"
+        ],
+        "original_language": "en",
+        "status": "Released",
+        "collection": "Psicose",
+        "vote_count": 10403,
+        "imdb_id": "tt0054215",
+        "revenue": 50048065,
+        "certification": "14",
+        "keywords": [
+            "hotel",
+            "clerk",
+            "shower",
+            "arizona",
+            "motel",
+            "halloween",
+            "stolen money",
+            "taxidermy",
+            "money",
+            "secretary",
+            "psychological thriller",
+            "black and white",
+            "corpse",
+            "murderer",
+            "theft",
+            "mental illness",
+            "private detective",
+            "missing person",
+            "psycho",
+            "voyeurism",
+            "voyeur",
+            "oedipus complex",
+            "double identity",
+            "abusive mother",
+            "dual personality",
+            "proto-slasher",
+            "multiple personality disorder",
+            "mother son relationship",
+            "birds",
+            "anxious",
+            "dramatic",
+            "woman on the run",
+            "corruptibility",
+            "confused identities",
+            "human vulnerabilities",
+            "man with female alter ego"
+        ],
+        "trailer": ""
     }
 ]
