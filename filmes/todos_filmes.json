@@ -6,7 +6,6 @@
         "tmdb_id": 311324,
         "popularity": 7.6508,
         "trending": false,
-        "dublado": true,
         "4K": true,
         "title": "A Grande Muralha",
         "url": [
@@ -76,7 +75,8 @@
             "female general",
             "war",
             "appreciative",
-            "bold"
+            "bold",
+            "dublado"
         ],
         "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=N7v-7-yCuNw"
     },
@@ -84,7 +84,6 @@
         "tmdb_id": 3580,
         "popularity": 3.4712,
         "trending": false,
-        "legendado": true,
         "title": "A Troca",
         "url": [
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7223ba985aea08d6ec90dee675d26e7d1b5fb9(720P - DUAL AUDIO)"
@@ -149,7 +148,8 @@
             "telephone switchboard operator",
             "female hysteria",
             "police coverup",
-            "apathetic"
+            "apathetic",
+            "dublado"
         ],
         "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=Nb_k_nhpATo"
     },
@@ -157,7 +157,6 @@
         "tmdb_id": 539,
         "popularity": 9.4406,
         "trending": false,
-        "classic": true,
         "title": "Psicose",
         "url": [
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a7c5121b9f7f8003999a5e2809693b56c45d81(DUAL AUDIO)"
@@ -239,7 +238,8 @@
             "corruptibility",
             "confused identities",
             "human vulnerabilities",
-            "man with female alter ego"
+            "man with female alter ego",
+            "dublado"
         ],
         "trailer": ""
     }
