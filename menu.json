@@ -108,46 +108,6 @@
                 "action": "list_keywords"
             },
             {
-                "categories": "Filmes Clássicos",
-                "poster": "https://exemplo.com/classicos.jpg",
-                "backdrop": "https://exemplo.com/backdrop_classicos.jpg",
-                "description": "Clássicos do cinema",
-                "action": "list_movies_by_flag",
-                "flag": "classic",
-                "label": "Filmes Clássicos",
-                "cache": "classic"
-            },
-            {
-                "categories": "Trash",
-                "poster": "https://exemplo.com/trash.jpg",
-                "backdrop": "https://exemplo.com/backdrop_trash.jpg",
-                "description": "Filmes trash cult",
-                "action": "list_movies_by_flag",
-                "flag": "trash",
-                "label": "Filmes Trash",
-                "cache": "trash"
-            },
-            {
-                "categories": "Dublados",
-                "poster": "https://exemplo.com/dublado.jpg",
-                "backdrop": "https://exemplo.com/backdrop_dublado.jpg",
-                "description": "Filmes dublados em português",
-                "action": "list_movies_by_flag",
-                "flag": "dublado",
-                "label": "Filmes Dublados",
-                "cache": "dubbed"
-            },
-            {
-                "categories": "Legendados",
-                "poster": "https://exemplo.com/legendado.jpg",
-                "backdrop": "https://exemplo.com/backdrop_legendado.jpg",
-                "description": "Filmes legendados",
-                "action": "list_movies_by_flag",
-                "flag": "legendado",
-                "label": "Filmes Legendados",
-                "cache": "subtitled"
-            },
-            {
                 "categories": "Todos os Filmes",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
