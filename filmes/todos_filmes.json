@@ -3,6 +3,69 @@
         "status": "on"
     },
     {
+        "tmdb_id": 1087192,
+        "title": "Como Treinar o Seu Dragão",
+        "date_added": "2025-07-16",
+		"4K": true,
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1ac3a044dae2c42abfb87aa27709166212109b2(4K - AUDIO ORIGINAL - LEG EMBUTIDA)",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee5dd8285167c3d6538fe2cb3cdcb2fdfe5ad79(1080P - AUDIO ORIGINAL - LEG EMBUTIDA)"
+        ],
+        "subtitles": [
+            "https://github.com/cineroom1/teste/raw/refs/heads/main/legendas/How.To.Train.Your.Dragon.2025.1080p.AMZN.WEB-DL%5BBen%20The%20Men%5D.srt"
+        ],
+        "year": 2025,
+        "genres": [
+            "Fantasia",
+            "Família",
+            "Ação"
+        ],
+        "actors": [
+            "Mason Thames",
+            "Nico Parker",
+            "Gerard Butler",
+            "Nick Frost",
+            "Gabriel Howell"
+        ],
+        "rating": 7.948,
+        "vote_count": 674,
+        "director": [
+            "Dean DeBlois"
+        ],
+        "runtime": 125,
+        "premiered": "2025-06-06",
+        "poster": "https://image.tmdb.org/t/p/w500/1azTyARpXTtspi28K9rcMIDaHFB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ovZasZ9EeZcp6UsrElkQ63hFCd.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/hlKsuZibzJLy313ICfBOWJ4x9lv.png",
+        "synopsis": "Filho cheio de imaginação, mas negligenciado, do Chefe Stoico, Soluço desafia séculos de tradição quando faz amizade com Banguela, um temido dragão Fúria da Noite. Seu vínculo improvável revela a verdadeira natureza dos dragões, desafiando os próprios fundamentos da sociedade viking. Com a feroz e ambiciosa Astrid e o peculiar ferreiro Bocão Bonarroto ao seu lado, Soluço confronta um mundo dilacerado pelo medo e por mal-entendidos. Quando uma antiga ameaça reaparece, colocando em perigo tanto os vikings quanto os dragões, a amizade de Soluço e Banguela se torna a chave para forjar um novo futuro. Juntos, eles devem trilhar o delicado caminho em direção à paz, ultrapassando os limites de seus mundos e redefinindo o que significa ser herói e líder.",
+        "studio": [
+            "DreamWorks Animation",
+            "Marc Platt Productions"
+        ],
+        "popularity": 175.5827,
+        "imdb_id": "tt26743210",
+        "revenue": 562818950,
+        "trending": true,
+        "providers": [],
+        "original_language": "en",
+        "status": "Released",
+        "collection": "Como Treinar o Seu Dragão (live-action): Coleção",
+        "certification": "10",
+        "keywords": [
+            "flying",
+            "vikings (norsemen)",
+            "remake",
+            "dragon",
+            "battle",
+            "warrior",
+            "live action remake",
+            "based on young adult novel",
+            "fantasy",
+            "bold"
+        ]
+    },
+    {
         "tmdb_id": 137113,
         "popularity": 9.0221,
         "trending": false,
