@@ -6,14 +6,14 @@
         "tmdb_id": 1087192,
         "title": "Como Treinar o Seu Dragão",
         "date_added": "2025-07-16",
-		"4K": true,
+        "4K": true,
         "type": "movie",
         "url": [
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1ac3a044dae2c42abfb87aa27709166212109b2(4K - AUDIO ORIGINAL - LEG EMBUTIDA)",
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee5dd8285167c3d6538fe2cb3cdcb2fdfe5ad79(1080P - AUDIO ORIGINAL - LEG EMBUTIDA)"
         ],
         "subtitles": [
-            "https://github.com/cineroom1/teste/raw/refs/heads/main/legendas/como_treinar_o_seu_dragao_2025.srt"
+            "https://github.com/cineroom1/teste/raw/refs/heads/main/legendas/como.treinar.o.seu.dragao.2025.srt"
         ],
         "year": 2025,
         "genres": [
@@ -69,7 +69,7 @@
         "tmdb_id": 137113,
         "popularity": 9.0221,
         "trending": false,
-        "date_added": "2025-07-11",
+        "date_added": "2025-07-14",
         "title": "No Limite do Amanhã",
         "year": 2014,
         "genres": [
