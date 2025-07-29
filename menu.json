@@ -42,7 +42,8 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes mais assistidos",
-                "action": "list_movies_by_popularity"
+                "action": "list_movies_by_popularity",
+		"is_vip": true    
             },
             {
                 "categories": "Melhores Avaliados",
