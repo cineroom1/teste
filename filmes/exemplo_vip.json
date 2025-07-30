@@ -75,6 +75,54 @@
             "vibrant"
         ],
         "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=7_FQzyNLpo4"
+    },
+   {
+        "tmdb_id": 138843,
+        "popularity": 24.5254,
+        "trending": false,
+        "title": "Invocacao do Mal",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38a90ab7273d1149c5afb5a5373d6ea046a8ae28(DUAL AUDIO)"
+        ],
+        "year": 2013,
+        "genres": [
+            "Terror",
+            "Thriller"
+        ],
+        "actors": [
+            "Patrick Wilson",
+            "Vera Farmiga",
+            "Lili Taylor",
+            "Ron Livingston",
+            "Mackenzie Foy"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/otILeHmcY6wc64DNXi0T7YYATZK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
+        "director": [
+            "James Wan"
+        ],
+        "studio": [
+            "Evergreen Media Group",
+            "New Line Cinema",
+            "The Safran Company"
+        ],
+        "rating": 7.54,
+        "runtime": 112,
+        "premiered": "2013-07-18",
+        "synopsis": "Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real.",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/b212lipRR2vFaGcA5Wa5hwSAJhl.png",
+        "type": "movie",
+        "providers": [
+            "Max"
+        ],
+        "original_language": "en",
+        "status": "Released",
+        "collection": "Invocação do Mal: Coleção",
+        "vote_count": 11909,
+        "imdb_id": "tt1457767",
+        "revenue": 320415166,
+        "certification": "14",
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=BW3BSg2Z0b8"
     }
 
 
