@@ -1,4 +1,5 @@
 [
+    {"status": "on"}
     {
         "menu_title": "Pesquisar",
         "menu_key": "Pesquisar",
@@ -61,11 +62,12 @@
                 "action": "list_genres"
             },
             {
-                "categories": "Por Estudios",
+                "categories": "4K Ultra HD (Remux)",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Estudios diversos de filmes",
-                "action": "list_studios"
+                "description": "Filmes Exclusivos nas melhores qualidades",
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/series/exemplo_vip.json",
+                "is_vip": true
             },
             {
                 "categories": "Todos os Filmes",
@@ -137,33 +139,6 @@
                 "description": "Todas as Séries em um só lugar",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/series/exemplo2_series.json",
                 "sort_method": "label"
-            }
-        ]
-    },
-    {
-        "menu_title": "VIP [COLOR gold]★[/COLOR]",
-        "menu_key": "filmes_vip",
-        "is_vip_category": true,
-        "poster": "https://archive.org/download/vip_icon/vip_cinema.png",
-        "fanart": "https://exemplo.com/fanart_vip.jpg",
-        "description": "[COLOR gold]Conteúdo exclusivo para assinantes[/COLOR]",
-        "status": "on",
-        "lock_icon": "https://archive.org/download/lock_icon/lock_vip.png",
-        "subcategorias": [
-            {
-                "categories": "4K Ultra HD [Remux]",
-                "poster": "https://archive.org/download/4k_remux_poster/4k_vip.png",
-                "thumb": "https://archive.org/download/4k_thumb/4k_thumb.jpg",
-                "backdrop": "https://exemplo.com/backdrop_4k_vip.jpg",
-                "description": "Qualidade máxima - Exclusivo VIP",
-                "action": "list_vip_movies"
-            },
-            {
-                "categories": "Link Direto [Remux]",
-                "poster": "https://archive.org/download/direct_link_poster/direct_vip.png",
-                "backdrop": "https://exemplo.com/backdrop_direct.jpg",
-                "description": "Streaming direto - Qualidade premium",
-                "action": "list_direct_links"
             }
         ]
     },
