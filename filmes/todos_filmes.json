@@ -82,17 +82,16 @@
     },
     {
         "tmdb_id": 1087192,
+        "popularity": 793.171,
+        "trending": true,
         "title": "Como Treinar o Seu Dragão",
-        "date_added": "2025-07-11",
+        "date_added": "2025-07-19",
         "4K": true,
-        "legendado": true,
         "type": "movie",
         "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1ac3a044dae2c42abfb87aa27709166212109b2(4K - AUDIO ORIGINAL - LEG EMBUTIDA)",
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee5dd8285167c3d6538fe2cb3cdcb2fdfe5ad79(1080P - AUDIO ORIGINAL - LEG EMBUTIDA)"
-        ],
-        "subtitles": [
-            "https://github.com/cineroom1/teste/raw/main/legendas/Como_treinar_o_seu_dragao/como.treinar.o.seu.dragao.2025.srt"
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2d7760cb9c7207bdc3c1e6e35c2988bfe3dca0b(4K - REMUX - DUAL AUDIO)",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7de4be25fc58f85d654effc33872cb1bdd6aff4(1080P - FHD - DUAL AUDIO)",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad675b6e239353c93237145c5d71cee9841c6a67(1080P - DUAL AUDIO)"
         ],
         "year": 2025,
         "genres": [
@@ -122,10 +121,8 @@
             "DreamWorks Animation",
             "Marc Platt Productions"
         ],
-        "popularity": 175.5827,
         "imdb_id": "tt26743210",
         "revenue": 562818950,
-        "trending": true,
         "providers": [],
         "original_language": "en",
         "status": "Released",
