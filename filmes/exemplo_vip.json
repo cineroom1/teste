@@ -1,6 +1,8 @@
 [
-  {"status": "on"},
-  {
+    {
+        "status": "on"
+    },
+    {
         "tmdb_id": 76341,
         "popularity": 13.24,
         "trending": false,
@@ -39,9 +41,9 @@
         "vote_count": 23164,
         "imdb_id": "tt1392190",
         "revenue": 378858340,
-        "certification": "16",
+        "certification": "16"
     },
-	{
+    {
         "tmdb_id": 127585,
         "popularity": 10.7259,
         "trending": false,
@@ -63,8 +65,8 @@
             "Ian McKellen"
         ],
         "poster": "https://image.tmdb.org/t/p/w500/s83Vwn9FtrofNmFiie7SXVKpXa5.jpg",
-		"clearlogo": "https://image.tmdb.org/t/p/w500/lqjrdVzrXVYAZB6oQXRa8ugw8SQ.png",
-		"backdrop": "https://image.tmdb.org/t/p/w1280/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/lqjrdVzrXVYAZB6oQXRa8ugw8SQ.png",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
         "rating": 7.528,
         "director": [
             "Bryan Singer"
@@ -89,6 +91,6 @@
         "vote_count": 15630,
         "imdb_id": "tt1877832",
         "revenue": 747862775,
-        "certification": "12",
+        "certification": "12"
     }
 ]
