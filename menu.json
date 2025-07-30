@@ -1,8 +1,5 @@
 [
     {
-        "status": "on"
-    },
-    {
         "menu_title": "Pesquisar",
         "menu_key": "Pesquisar",
         "poster": "https://archive.org/download/em_alta/search.png",
@@ -12,16 +9,6 @@
         "status": "on"
     },
     {
-        "menu_title": "Recentes",
-        "menu_key": "Recem Adicionados",
-        "poster": "https://archive.org/download/contato_202505/recentes.png",
-        "fanart": "https://exemplo.com/fanart_recentes.jpg",
-        "icon": "https://exemplo.com/icone_recentes.png",
-        "action": "list_by_date_added",
-        "status": "on",
-        "description": "Veja os filmes e séries adicionados recentemente ao catálogo."
-    },
-    {
         "menu_title": "Filmes",
         "menu_key": "Filmes",
         "poster": "https://archive.org/download/em_alta/filmes.png",
@@ -29,14 +16,6 @@
         "description": "Variedade incrivel de Filmes disponiveis para voce",
         "status": "on",
         "subcategorias": [
-            {
-                "categories": "2025",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes lançados em 2025",
-                "action": "list_movies_by_specific_year",
-                "year": 2025
-            },
             {
                 "categories": "Mais Populares",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
@@ -57,7 +36,8 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_atores.jpg",
                 "description": "Filmes em HDCam",
-                "action": "list_movies_in_cinemas"
+                "action": "list_movies_in_cinemas",
+                "is_vip": true
             },
             {
                 "categories": "4K Ultra HD",
@@ -88,34 +68,6 @@
                 "action": "list_studios"
             },
             {
-                "categories": "Por Região",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes com base no pais de origem",
-                "action": "list_countries"
-            },
-            {
-                "categories": "Legendados",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes com Legendas embutidas",
-                "action": "list_movies_legendados"
-            },
-            {
-                "categories": "Maiores Bilheterias",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes com as maiories bilheterias",
-                "action": "list_movies_by_revenue"
-            },
-            {
-                "categories": "Por Tópico",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filtre por Palavra-chave",
-                "action": "list_keywords"
-            },
-            {
                 "categories": "Todos os Filmes",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
@@ -134,19 +86,12 @@
         "description": "Variedade incrivel de Séries disponiveis para voce",
         "subcategorias": [
             {
-                "categories": "2025",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "Séries de 2025",
-                "action": "list_series_by_specific_year",
-                "year": 2025
-            },
-            {
                 "categories": "Mais Populares",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
                 "description": "Séries mais populares",
-                "action": "list_series_by_popularity"
+                "action": "list_series_by_popularity",
+                "is_vip": true
             },
             {
                 "categories": "Melhores Avaliadas",
@@ -163,13 +108,6 @@
                 "action": "list_kids_series"
             },
             {
-                "categories": "Por Gênero",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_generos.jpg",
-                "description": "Séries organizadas por gênero",
-                "action": "list_series_genres"
-            },
-            {
                 "categories": "Por Plataforma",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
@@ -181,14 +119,16 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
                 "description": "Aba especifica para animes",
-                "action": "list_anime_series"
+                "action": "list_anime_series",
+                "is_vip": true
             },
             {
                 "categories": "Novelas",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
                 "description": "Aba especifica para novelas",
-                "action": "list_novela_series"
+                "action": "list_novela_series",
+                "is_vip": true
             },
             {
                 "categories": "Todas as Séries",
@@ -203,6 +143,7 @@
     {
         "menu_title": "[B][COLOR gold]VIP CINEMA[/COLOR][/B]",
         "menu_key": "filmes_vip",
+        "is_vip_category": true,
         "poster": "https://archive.org/download/vip_icon/vip_cinema.png",
         "fanart": "https://exemplo.com/fanart_vip.jpg",
         "description": "[COLOR gold]Conteúdo exclusivo para assinantes[/COLOR]",
@@ -215,16 +156,14 @@
                 "thumb": "https://archive.org/download/4k_thumb/4k_thumb.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k_vip.jpg",
                 "description": "[COLOR gold]Qualidade máxima - Exclusivo VIP[/COLOR]\n[I]Bitrate: 50-80Mbps • HDR10[/I]",
-                "action": "list_vip_movies",
-                "is_vip": true
+                "action": "list_vip_movies"
             },
             {
                 "categories": "[B]LINK DIRETO REMUX[/B]",
                 "poster": "https://archive.org/download/direct_link_poster/direct_vip.png",
                 "backdrop": "https://exemplo.com/backdrop_direct.jpg",
                 "description": "[COLOR gold]Streaming direto - Qualidade premium[/COLOR]\n[I]Sem redirecionamentos • Baixa latência[/I]",
-                "action": "list_direct_links",
-                "is_vip": true
+                "action": "list_direct_links"
             }
         ]
     },
@@ -235,15 +174,6 @@
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "action": "list_favorites",
         "description": "Aba exclusiva para salvar seus Filmes e Séries favortias!",
-        "status": "on"
-    },
-    {
-        "menu_title": "Doação",
-        "menu_key": "Doação",
-        "poster": "https://archive.org/download/em_alta/doa%C3%A7%C3%A3o.png",
-        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "description": "Sua colaboração é de extrema importancia",
-        "action": "show_donation",
         "status": "on"
     },
     {
