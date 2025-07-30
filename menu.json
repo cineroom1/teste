@@ -141,7 +141,7 @@
         ]
     },
     {
-        "menu_title": "[B][COLOR gold]VIP CINEMA[/COLOR][/B]",
+        "menu_title": "VIP [COLOR gold]★[/COLOR]",
         "menu_key": "filmes_vip",
         "is_vip_category": true,
         "poster": "https://archive.org/download/vip_icon/vip_cinema.png",
@@ -151,18 +151,18 @@
         "lock_icon": "https://archive.org/download/lock_icon/lock_vip.png",
         "subcategorias": [
             {
-                "categories": "[B]4K ULTRA HD REMUX[/B]",
+                "categories": "4K Ultra HD [Remux]",
                 "poster": "https://archive.org/download/4k_remux_poster/4k_vip.png",
                 "thumb": "https://archive.org/download/4k_thumb/4k_thumb.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k_vip.jpg",
-                "description": "[COLOR gold]Qualidade máxima - Exclusivo VIP[/COLOR]\n[I]Bitrate: 50-80Mbps • HDR10[/I]",
+                "description": "Qualidade máxima - Exclusivo VIP",
                 "action": "list_vip_movies"
             },
             {
-                "categories": "[B]LINK DIRETO REMUX[/B]",
+                "categories": "Link Direto [Remux]",
                 "poster": "https://archive.org/download/direct_link_poster/direct_vip.png",
                 "backdrop": "https://exemplo.com/backdrop_direct.jpg",
-                "description": "[COLOR gold]Streaming direto - Qualidade premium[/COLOR]\n[I]Sem redirecionamentos • Baixa latência[/I]",
+                "description": "Streaming direto - Qualidade premium",
                 "action": "list_direct_links"
             }
         ]
