@@ -43,7 +43,7 @@
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes mais assistidos",
                 "action": "list_movies_by_popularity",
-		"is_vip": true    
+                "is_vip": true
             },
             {
                 "categories": "Melhores Avaliados",
@@ -94,7 +94,7 @@
                 "description": "Filmes com base no pais de origem",
                 "action": "list_countries"
             },
-			{
+            {
                 "categories": "Legendados",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
@@ -197,6 +197,34 @@
                 "description": "Todas as Séries em um só lugar",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/series/exemplo2_series.json",
                 "sort_method": "label"
+            }
+        ]
+    },
+    {
+        "menu_title": "[B][COLOR gold]VIP CINEMA[/COLOR][/B]",
+        "menu_key": "filmes_vip",
+        "poster": "https://archive.org/download/vip_icon/vip_cinema.png",
+        "fanart": "https://exemplo.com/fanart_vip.jpg",
+        "description": "[COLOR gold]Conteúdo exclusivo para assinantes[/COLOR]",
+        "status": "on",
+        "lock_icon": "https://archive.org/download/lock_icon/lock_vip.png",
+        "subcategorias": [
+            {
+                "categories": "[B]4K ULTRA HD REMUX[/B]",
+                "poster": "https://archive.org/download/4k_remux_poster/4k_vip.png",
+                "thumb": "https://archive.org/download/4k_thumb/4k_thumb.jpg",
+                "backdrop": "https://exemplo.com/backdrop_4k_vip.jpg",
+                "description": "[COLOR gold]Qualidade máxima - Exclusivo VIP[/COLOR]\n[I]Bitrate: 50-80Mbps • HDR10[/I]",
+                "action": "list_vip_movies",
+                "is_vip": true
+            },
+            {
+                "categories": "[B]LINK DIRETO REMUX[/B]",
+                "poster": "https://archive.org/download/direct_link_poster/direct_vip.png",
+                "backdrop": "https://exemplo.com/backdrop_direct.jpg",
+                "description": "[COLOR gold]Streaming direto - Qualidade premium[/COLOR]\n[I]Sem redirecionamentos • Baixa latência[/I]",
+                "action": "list_direct_links",
+                "is_vip": true
             }
         ]
     },
