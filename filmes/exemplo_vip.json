@@ -1,130 +1,94 @@
 [
-   {
-        "status": "on"
-    },
+  {"status": "on"},
   {
-        "tmdb_id": 49521,
-        "popularity": 24.6105,
+        "tmdb_id": 76341,
+        "popularity": 13.24,
         "trending": false,
-        "title": "O Homem de Aço",
+        "title": "Mad Max: Estrada da Fúria",
         "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6800c0ec6bbeabbc356f5a42e1ffd5272c164a69(DUAL AUDIO)"
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6c5d0ac63714400e01d59c0ede861d2f4789fc7(4K - REMUX -  DUAL AUDIO)"
         ],
-        "year": 2013,
+        "year": 2015,
+        "genres": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "poster": "https://image.tmdb.org/t/p/original/hdwV4OBZNgdI4RPFIHmLLg08Jvw.jpg",
+        "rating": 7.623,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+        "director": [
+            "George Miller"
+        ],
+        "studio": [
+            "Warner Bros. Pictures",
+            "Village Roadshow Pictures",
+            "Kennedy Miller Mitchell",
+            "RatPac Entertainment"
+        ],
+        "runtime": 120,
+        "premiered": "2015-05-13",
+        "synopsis": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.",
+        "type": "movie",
+        "4K": true,
+        "clearlogo": "https://image.tmdb.org/t/p/w500/rtjs8PpumUT3IixNfg6t1dsleVq.png",
+        "providers": [],
+        "original_language": "en",
+        "status": "Released",
+        "collection": "Mad Max: Coleção",
+        "vote_count": 23164,
+        "imdb_id": "tt1392190",
+        "revenue": 378858340,
+        "certification": "16",
+    },
+	{
+        "tmdb_id": 127585,
+        "popularity": 10.7259,
+        "trending": false,
+        "title": "X-Men: Dias de um Futuro Esquecido",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4339a1ebe56937dd156794052d7bd44b97af61c(4K - REMUX - DUAL AUDIO)"
+        ],
+        "year": 2014,
         "genres": [
             "Ação",
             "Aventura",
             "Ficção científica"
         ],
         "actors": [
-            "Henry Cavill",
-            "Amy Adams",
-            "Russell Crowe",
-            "Michael Shannon",
-            "Kevin Costner"
+            "Hugh Jackman",
+            "James McAvoy",
+            "Michael Fassbender",
+            "Patrick Stewart",
+            "Ian McKellen"
         ],
-        "poster": "https://image.tmdb.org/t/p/w500/nLdGhMTqdvWgMuxmSroaV2JX8sX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/s83Vwn9FtrofNmFiie7SXVKpXa5.jpg",
+		"clearlogo": "https://image.tmdb.org/t/p/w500/lqjrdVzrXVYAZB6oQXRa8ugw8SQ.png",
+		"backdrop": "https://image.tmdb.org/t/p/w1280/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+        "rating": 7.528,
         "director": [
-            "Zack Snyder"
+            "Bryan Singer"
         ],
         "studio": [
-            "DC Entertainment",
-            "Syncopy",
-            "Peters Entertainment",
-            "Warner Bros. Pictures"
+            "Bad Hat Harry Productions",
+            "The Donners' Company",
+            "20th Century Fox",
+            "Marvel Entertainment",
+            "TSG Entertainment",
+            "Genre Films"
         ],
-        "rating": 6.633,
-        "runtime": 143,
-        "premiered": "2013-06-12",
-        "synopsis": "Um garoto descobre que não é deste planeta e que tem poderes extraordinários. Quando se torna adolescente, viaja para descobrir de onde veio e para o quê foi enviado a fazer. Mas o herói nele deve emergir se quiser salvar o mundo da aniquilação e se tornar o símbolo de esperança para toda a humanidade.",
-        "clearlogo": "https://image.tmdb.org/t/p/w500/5VGjjzSSPfv3Qy2wCWVf0IIwIIq.png",
+        "runtime": 131,
+        "premiered": "2014-05-15",
+        "synopsis": "O conjunto definitivo dos X-Men luta uma guerra pela sobrevivência da espécie em dois períodos de tempo enquanto unem forças com seus eus mais jovens em uma batalha épica que deve mudar o passado – para salvar nosso futuro.",
         "type": "movie",
-        "providers": [
-            "Amazon Prime Video",
-            "Max",
-            "Max Amazon Channel"
-        ],
+        "4K": true,
+        "providers": [],
         "original_language": "en",
         "status": "Released",
-        "collection": "Homem de Aço: Coleção",
-        "vote_count": 15470,
-        "imdb_id": "tt0770828",
-        "revenue": 668045518,
+        "collection": "X-Men: Coleção",
+        "vote_count": 15630,
+        "imdb_id": "tt1877832",
+        "revenue": 747862775,
         "certification": "12",
-        "keywords": [
-            "saving the world",
-            "flying",
-            "hope",
-            "superhero",
-            "based on comic",
-            "alien planet",
-            "superhuman",
-            "alien invasion",
-            "super power",
-            "mysterious force",
-            "reboot",
-            "save the day",
-            "dc extended universe (dceu)",
-            "save the planet",
-            "origin story",
-            "alien spaceship",
-            "awestruck",
-            "bold",
-            "defiant",
-            "vibrant"
-        ],
-        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=7_FQzyNLpo4"
-    },
-   {
-        "tmdb_id": 138843,
-        "popularity": 24.5254,
-        "trending": false,
-        "title": "Invocacao do Mal",
-        "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38a90ab7273d1149c5afb5a5373d6ea046a8ae28(DUAL AUDIO)"
-        ],
-        "year": 2013,
-        "genres": [
-            "Terror",
-            "Thriller"
-        ],
-        "actors": [
-            "Patrick Wilson",
-            "Vera Farmiga",
-            "Lili Taylor",
-            "Ron Livingston",
-            "Mackenzie Foy"
-        ],
-        "poster": "https://image.tmdb.org/t/p/w500/otILeHmcY6wc64DNXi0T7YYATZK.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
-        "director": [
-            "James Wan"
-        ],
-        "studio": [
-            "Evergreen Media Group",
-            "New Line Cinema",
-            "The Safran Company"
-        ],
-        "rating": 7.54,
-        "runtime": 112,
-        "premiered": "2013-07-18",
-        "synopsis": "Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real.",
-        "clearlogo": "https://image.tmdb.org/t/p/w500/b212lipRR2vFaGcA5Wa5hwSAJhl.png",
-        "type": "movie",
-        "providers": [
-            "Max"
-        ],
-        "original_language": "en",
-        "status": "Released",
-        "collection": "Invocação do Mal: Coleção",
-        "vote_count": 11909,
-        "imdb_id": "tt1457767",
-        "revenue": 320415166,
-        "certification": "14",
-        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=BW3BSg2Z0b8"
     }
-
-
-  
 ]
