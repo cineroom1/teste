@@ -1,0 +1,80 @@
+[
+
+  {
+        "tmdb_id": 49521,
+        "popularity": 24.6105,
+        "trending": false,
+        "title": "O Homem de Aço",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6800c0ec6bbeabbc356f5a42e1ffd5272c164a69(DUAL AUDIO)"
+        ],
+        "year": 2013,
+        "genres": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "actors": [
+            "Henry Cavill",
+            "Amy Adams",
+            "Russell Crowe",
+            "Michael Shannon",
+            "Kevin Costner"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/nLdGhMTqdvWgMuxmSroaV2JX8sX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg",
+        "director": [
+            "Zack Snyder"
+        ],
+        "studio": [
+            "DC Entertainment",
+            "Syncopy",
+            "Peters Entertainment",
+            "Warner Bros. Pictures"
+        ],
+        "rating": 6.633,
+        "runtime": 143,
+        "premiered": "2013-06-12",
+        "synopsis": "Um garoto descobre que não é deste planeta e que tem poderes extraordinários. Quando se torna adolescente, viaja para descobrir de onde veio e para o quê foi enviado a fazer. Mas o herói nele deve emergir se quiser salvar o mundo da aniquilação e se tornar o símbolo de esperança para toda a humanidade.",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/5VGjjzSSPfv3Qy2wCWVf0IIwIIq.png",
+        "type": "movie",
+        "providers": [
+            "Amazon Prime Video",
+            "Max",
+            "Max Amazon Channel"
+        ],
+        "original_language": "en",
+        "status": "Released",
+        "collection": "Homem de Aço: Coleção",
+        "vote_count": 15470,
+        "imdb_id": "tt0770828",
+        "revenue": 668045518,
+        "certification": "12",
+        "keywords": [
+            "saving the world",
+            "flying",
+            "hope",
+            "superhero",
+            "based on comic",
+            "alien planet",
+            "superhuman",
+            "alien invasion",
+            "super power",
+            "mysterious force",
+            "reboot",
+            "save the day",
+            "dc extended universe (dceu)",
+            "save the planet",
+            "origin story",
+            "alien spaceship",
+            "awestruck",
+            "bold",
+            "defiant",
+            "vibrant"
+        ],
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=7_FQzyNLpo4"
+    }
+
+
+  
+]
