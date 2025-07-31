@@ -66,7 +66,8 @@
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes Exclusivos nas melhores qualidades",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/exemplo_vip.json",
-                "is_vip": true
+                "is_vip": true,
+                "sort_method": "rating"
             },
             {
                 "categories": "Todos os Filmes",
