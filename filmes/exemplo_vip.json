@@ -26,7 +26,6 @@
         ],
         "year": 2015,
         "rating": 7.623,
-        "synopsis": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.",
         "type": "movie"
     },
     {
@@ -40,7 +39,6 @@
         ],
         "year": 2014,
         "rating": 7.528,
-        "synopsis": "O conjunto definitivo dos X-Men luta uma guerra pela sobrevivência da espécie em dois períodos de tempo enquanto unem forças com seus eus mais jovens em uma batalha épica que deve mudar o passado – para salvar nosso futuro.",
         "type": "movie",
         "imdb_id": "tt1877832"
     },
@@ -65,7 +63,7 @@
         "backdrop": "https://image.tmdb.org/t/p/original/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
         "type": "movie",
         "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:(4K - DUAL AUDIO - VIP)"
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a1c582c45873985522c8f1779dad08432f74ed4(4K - DUAL AUDIO - VIP)"
         ]
     },
     {
@@ -77,18 +75,79 @@
         "backdrop": "https://image.tmdb.org/t/p/original/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
         "type": "movie",
         "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:(4K - DUAL AUDIO - VIP)"
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b237cca51c1474ff296e97d065756b4a1077744(4K - DUAL AUDIO - VIP)"
         ]
     },
     {
         "tmdb_id": 884605,
+        "rating": 6.8,
         "title": "Que Horas Eu Te Pego?",
         "poster": "https://image.tmdb.org/t/p/original/3T2RoB6w253LaIQfX6nXct6z9rl.jpg",
         "clearlogo": "https://image.tmdb.org/t/p/original/79geZm04KP7SmYHeQwkBZaGUNa5.png",
         "backdrop": "https://image.tmdb.org/t/p/original/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
         "type": "movie",
         "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:(4K - DUAL AUDIO - VIP)"
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bc18df43637cbc6f0c3176a70781e6af4f45e3f(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 329865,
+        "rating": 7.6,
+        "title": "A Chegada",
+        "poster": "https://image.tmdb.org/t/p/original/waHwhqUtT00NRHfBDCxpWYjc69T.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/aKFYSSTPkReVysTEWrE3yaqmcMS.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/hNCqkXbWd40eftqSdjq8TmV7Mqr.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec4ad9d9b04744ce8393102c10f97b5ff2ee6dc7(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 718930,
+        "rating": 7.4,
+        "title": "Trem-Bala",
+        "poster": "https://image.tmdb.org/t/p/original/iMiJUXhqsvU2YOFDujbBzOTjQQC.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/sDuHmOur1RukJyRZhaxNQIRXp25.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/vGkMYdTApqGTtvKAt5QxT4JmMh4.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf0f278b601bdaf826c000a2b008036b5ce7cd56(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 501170,
+        "rating": 7.1,
+        "title": "Doutor Sono",
+        "poster": "https://image.tmdb.org/t/p/original/hSkAH53xTfUF3ETpXPt74uI24YV.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/uEaXfOUEfhFXq2Vm8ExhuUs6uMp.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/gKk8Bg4qpHfniAJC3phzCZpkaIg.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ae5338dff55b944cbfd30eb1a8a8f1115c2071e(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 333339,
+        "rating": 7.6,
+        "title": "Jogador N° 1",
+        "poster": "https://image.tmdb.org/t/p/original/3OtTWB32M1UimfJgcBYh2Oe0T9i.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/r6hLUjfPXnJjcbvjPv9tTNIst0h.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/q7fXcrDPJcf6t3rzutaNwTzuKP1.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a686598aea1739c047cbe66fb60d9af166a509e(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 87827,
+        "rating": 7.4,
+        "title": "As Aventuras de Pi",
+        "poster": "https://image.tmdb.org/t/p/original/9UhJAvAytYoT418NtGluHYzvXJ7.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/ogjoWG6SHBlSDsHMhJkb9qdzc03.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/7H01zprUY67n7bdcFg6VMvrkNjs.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:198a0945ca15f4430d36c07f85bf0f23636be071(4K - DUAL AUDIO - VIP)"
         ]
     }
 ]
