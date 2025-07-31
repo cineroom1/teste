@@ -3,94 +3,92 @@
         "status": "on"
     },
     {
-        "tmdb_id": 76341,
-        "popularity": 13.24,
-        "trending": false,
-        "title": "Mad Max: Estrada da Fúria",
+        "tmdb_id": 863873,
+        "title": "Os Horrores do Caddo Lake",
+        "poster": "https://image.tmdb.org/t/p/original/C2bri4hlZQzShSv0jU4MZtxeuy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jcpUCn3oFKitAnbwosoPqaMFccj.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/d5KsRgTQFHzMpp8nPlvNAHapDl0.png",
+        "rating": 7.2,
+        "year": 2015,
+        "type": "movie",
         "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6c5d0ac63714400e01d59c0ede861d2f4789fc7(4K - REMUX -  DUAL AUDIO)"
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:437ecaf22d78cbef1b88af4bd30902d6b95c6d46(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 76341,
+        "title": "Mad Max: Estrada da Fúria",
+        "poster": "https://image.tmdb.org/t/p/original/m3dvSO7TNDW1BOd6sFZMweF3lj0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/rtjs8PpumUT3IixNfg6t1dsleVq.png",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6c5d0ac63714400e01d59c0ede861d2f4789fc7(4K - DUAL AUDIO - VIP)"
         ],
         "year": 2015,
-        "genres": [
-            "Ação",
-            "Aventura",
-            "Ficção científica"
-        ],
-        "poster": "https://image.tmdb.org/t/p/original/hdwV4OBZNgdI4RPFIHmLLg08Jvw.jpg",
         "rating": 7.623,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
-        "director": [
-            "George Miller"
-        ],
-        "studio": [
-            "Warner Bros. Pictures",
-            "Village Roadshow Pictures",
-            "Kennedy Miller Mitchell",
-            "RatPac Entertainment"
-        ],
-        "runtime": 120,
-        "premiered": "2015-05-13",
         "synopsis": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.",
-        "type": "movie",
-        "4K": true,
-        "clearlogo": "https://image.tmdb.org/t/p/w500/rtjs8PpumUT3IixNfg6t1dsleVq.png",
-        "providers": [],
-        "original_language": "en",
-        "status": "Released",
-        "collection": "Mad Max: Coleção",
-        "vote_count": 23164,
-        "imdb_id": "tt1392190",
-        "revenue": 378858340,
-        "certification": "16"
+        "type": "movie"
     },
     {
         "tmdb_id": 127585,
-        "popularity": 10.7259,
-        "trending": false,
         "title": "X-Men: Dias de um Futuro Esquecido",
-        "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4339a1ebe56937dd156794052d7bd44b97af61c(4K - REMUX - DUAL AUDIO)"
-        ],
-        "year": 2014,
-        "genres": [
-            "Ação",
-            "Aventura",
-            "Ficção científica"
-        ],
-        "actors": [
-            "Hugh Jackman",
-            "James McAvoy",
-            "Michael Fassbender",
-            "Patrick Stewart",
-            "Ian McKellen"
-        ],
-        "poster": "https://image.tmdb.org/t/p/w500/s83Vwn9FtrofNmFiie7SXVKpXa5.jpg",
+        "poster": "https://image.tmdb.org/t/p/original/hdwV4OBZNgdI4RPFIHmLLg08Jvw.jpg",
         "clearlogo": "https://image.tmdb.org/t/p/w500/lqjrdVzrXVYAZB6oQXRa8ugw8SQ.png",
         "backdrop": "https://image.tmdb.org/t/p/w1280/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4339a1ebe56937dd156794052d7bd44b97af61c(4K - DUAL AUDIO - VIP)"
+        ],
+        "year": 2014,
         "rating": 7.528,
-        "director": [
-            "Bryan Singer"
-        ],
-        "studio": [
-            "Bad Hat Harry Productions",
-            "The Donners' Company",
-            "20th Century Fox",
-            "Marvel Entertainment",
-            "TSG Entertainment",
-            "Genre Films"
-        ],
-        "runtime": 131,
-        "premiered": "2014-05-15",
         "synopsis": "O conjunto definitivo dos X-Men luta uma guerra pela sobrevivência da espécie em dois períodos de tempo enquanto unem forças com seus eus mais jovens em uma batalha épica que deve mudar o passado – para salvar nosso futuro.",
         "type": "movie",
-        "4K": true,
-        "providers": [],
-        "original_language": "en",
-        "status": "Released",
-        "collection": "X-Men: Coleção",
-        "vote_count": 15630,
-        "imdb_id": "tt1877832",
-        "revenue": 747862775,
-        "certification": "12"
+        "imdb_id": "tt1877832"
+    },
+    {
+        "tmdb_id": 72190,
+        "rating": 7.528,
+        "title": "Guerra Mundial Z",
+        "poster": "https://image.tmdb.org/t/p/original/5TifuNA3w5vLtO4v1fOIjFOgyC5.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/kK4dDY91tjR83eYV9ewLdJdr4lq.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34096dc2f4c3069a178fd1f1b71ee843db156fef(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 20504,
+        "rating": 7.2,
+        "title": "O Livro de Eli",
+        "poster": "https://image.tmdb.org/t/p/original/w0NsvhaMWy1LdU4QtdVi5ERCnAU.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/tybrCSotD4lAhofq8P1ZLl2FEA0.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 840705,
+        "rating": 6.8,
+        "title": "Pisque Duas Vezes",
+        "poster": "https://image.tmdb.org/t/p/original/aq8eVd89qiAZj4gv3z61kJcq0F3.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/beVOWgYDjWeo3hKuEo4kLbtqgiy.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 884605,
+        "title": "Que Horas Eu Te Pego?",
+        "poster": "https://image.tmdb.org/t/p/original/3T2RoB6w253LaIQfX6nXct6z9rl.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/79geZm04KP7SmYHeQwkBZaGUNa5.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:(4K - DUAL AUDIO - VIP)"
+        ]
     }
 ]
