@@ -1,5 +1,7 @@
 [
-    {"status": "on"},
+    {
+        "status": "on"
+    },
     {
         "menu_title": "Pesquisar",
         "menu_key": "Pesquisar",
@@ -22,8 +24,7 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes mais assistidos",
-                "action": "list_movies_by_popularity",
-                "is_vip": true
+                "action": "list_movies_by_popularity"
             },
             {
                 "categories": "Melhores Avaliados",
@@ -61,15 +62,6 @@
                 "action": "list_genres"
             },
             {
-                "categories": "4K Ultra HD [Remux]",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes Exclusivos nas melhores qualidades",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/exemplo_vip.json",
-                "is_vip": true,
-                "sort_method": "rating"
-            },
-            {
                 "categories": "Todos os Filmes",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
@@ -92,8 +84,7 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
                 "description": "Séries mais populares",
-                "action": "list_series_by_popularity",
-                "is_vip": true
+                "action": "list_series_by_popularity"
             },
             {
                 "categories": "Melhores Avaliadas",
@@ -121,16 +112,14 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
                 "description": "Aba especifica para animes",
-                "action": "list_anime_series",
-                "is_vip": true
+                "action": "list_anime_series"
             },
             {
                 "categories": "Novelas",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
                 "description": "Aba especifica para novelas",
-                "action": "list_novela_series",
-                "is_vip": true
+                "action": "list_novela_series"
             },
             {
                 "categories": "Todas as Séries",
@@ -139,6 +128,32 @@
                 "description": "Todas as Séries em um só lugar",
                 "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/series/exemplo2_series.json",
                 "sort_method": "label"
+            }
+        ]
+    },
+    {
+        "menu_title": "Exclusivo [COLOR gold]★[/COLOR]",
+        "menu_key": "Vip",
+        "poster": "https://archive.org/download/exclusivo_202508/exclusivo.png",
+        "fanart": "https://exemplo.com/fanart_filmes.jpg",
+        "description": "Acesso especial para apoiadores do addon! Aqui você encontrará filmes com qualidade máxima, como 4K Remux e 1080p Remux, cuidadosamente selecionados e disponibilizados exclusivamente para membros que contribuem com o projeto e fazem parte do grupo VIP.",
+        "status": "on",
+        "subcategorias": [
+            {
+                "categories": "4K Ultra HD [Remux]",
+                "poster": "https://archive.org/download/exclusivo_202508/4k.png",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Filmes em 4k remux",
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/exemplo_vip.json",
+                "is_vip": true
+            },
+            {
+                "categories": "1080P [Remux]",
+                "poster": "https://archive.org/download/exclusivo_202508/1080p%20%281%29.png",
+                "backdrop": "https://exemplo.com/backdrop_rating.jpg",
+                "description": "Filmes em 1080P remux",
+                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/exemplo_vip2.json",
+                "is_vip": true
             }
         ]
     },
