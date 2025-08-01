@@ -149,5 +149,174 @@
         "url": [
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:198a0945ca15f4430d36c07f85bf0f23636be071(4K - DUAL AUDIO - VIP)"
         ]
+    },
+    {
+        "tmdb_id": 118340,
+        "rating": 7.9,
+        "title": "Guardiões da Galáxia",
+        "poster": "https://image.tmdb.org/t/p/original/qqGSQ8XJpg5V3B1ZSQShwEFvacC.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/bMqfA9CQVZqClAMKZCRBdDChNe4.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ab50316a0f63db10452c1ddbd36c7261e96d2cb(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 283995,
+        "rating": 7.6,
+        "title": "Guardiões da Galáxia - Vol. 2",
+        "poster": "https://image.tmdb.org/t/p/original/irnBHSl7WpyWGqETDl1PPUPYSFp.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/ri47BTdRi3hmuiM2TZQ8ipB1KUb.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485f2814e590454d3f21422268190ae2a3a3cebb(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 284053,
+        "rating": 7.6,
+        "title": "Thor: Ragnarok",
+        "poster": "https://image.tmdb.org/t/p/original/eUFZSSNPUDb7gjp7e2VYQoHBd4e.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/vvd4yHi6offKUQAOswWMN3M4riU.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85bde684f53b390beb7c0105dd1c3d43e80efcc6(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 274870,
+        "rating": 7,
+        "title": "Passageiros",
+        "poster": "https://image.tmdb.org/t/p/original/vjgwnupjdG21Km86G9dAepPbMGO.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/gVwedpLtOyLvHmRmuLNcpMmBOjp.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0199a89f6cf0616f82bed2510720fa7e8d2338d(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 283366,
+        "rating": 6.8,
+        "title": "O Lar das Crianças Peculiares",
+        "poster": "https://image.tmdb.org/t/p/original/exiCwYeCPM7w4Vmabab3E3NYS5n.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/uOMdqeHD5COWj1u5yWyxdGLTYfv.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/ld7V9BjMk2xtiBNcR8savyyk5ca.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ae2c6f2d032287c0fe95ed55672f9c894aebf75(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 762504,
+        "rating": 7.2,
+        "title": "Não! Não Olhe",
+        "poster": "https://image.tmdb.org/t/p/original/d1GJJya8DpA8A5UenEkJXMdltsK.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/nKyn6s7fEwOXdRczHVOynBHB6iY.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/5N8LOeRzt7LcZIhPbNVaCsVOPdT.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c35b94eaf3fd82ea375b11639d31ef66291e4377(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 363676,
+        "rating": 7.23,
+        "title": "Sully: O Herói do Rio Hudson",
+        "poster": "https://image.tmdb.org/t/p/original/g7k8g4hS7XZBPpAHNeNSiwExuwj.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/tvXcoaYG3ogHsO7vRQyUcwqKpVd.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/oQ024BtJgArg8WI4zfuc2vkCJno.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43d4671188b826fbcfb95c77fc3bb06a3e739a1a(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 373571,
+        "rating": 7,
+        "title": "Godzilla II: Rei dos Monstros",
+        "poster": "https://image.tmdb.org/t/p/original/a6jzLZWGC4UhxtwZFtQqMSLfT0q.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/oAfsjop5NzamJuOojAo9DV61zic.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/uovH5k4BAEPqXqxgwVrTtqH169g.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73241c0f27f2eadec5a56c98310d91aeb182fc4b(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 259316,
+        "rating": 7.3,
+        "title": "Animais Fantásticos e Onde Habitam",
+        "poster": "https://image.tmdb.org/t/p/original/qoxbdRPA2TzqXyZJcUHq8EaRqB.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/nH78NMxak14yZ0O4Eb7ZTNKcnmE.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa40c1ddfe2fa43063e67373a58906c16e82af37(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 1032823,
+        "rating": 6.5,
+        "title": "Armadilha",
+        "poster": "https://image.tmdb.org/t/p/original/mKhQtMS2gc1XsG2ok9lFtG7tM2G.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/7ac11TvjmoeZrqGefjY8EiVnOrn.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/nra0mwygGORHlD0Rd84DhQ9jkdf.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc8afbd0c3cf1a02fb2642e401a4f6231149460c(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 882569,
+        "rating": 7.7,
+        "title": "O Pacto",
+        "poster": "https://image.tmdb.org/t/p/original/pkMiYqOEkpLY8RGv2nc6jEKvxgz.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/f7vVyYtdxyhRJ4B8MfRDEUsNDrp.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7c441e8578013dc464b9e51b012990fbb7a3eb2(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 281957,
+        "rating": 7.5,
+        "title": "O Regresso",
+        "poster": "https://image.tmdb.org/t/p/original/v6c45qa4XZq8xTbT6yE8JFFAZhB.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/oUmEvwLnszTR56U22OF6HsVN7t4.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/sGOw65ZmfgGfistCjuNsazjs6j9.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91dcdf590999abb3116dbf55e505d950a90a59cb(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 240832,
+        "rating": 6.5,
+        "title": "Lucy",
+        "poster": "https://image.tmdb.org/t/p/original/ikWyfcJENXxYIbbEZd1rbwv4SZ7.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/qZTAWipqD4vUT1Uq1Vuatw93oux.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53501362e47478262983e2fa820cfe0009deb522(4K - DUAL AUDIO - VIP)"
+        ]
+    },
+    {
+        "tmdb_id": 286217,
+        "rating": 7.7,
+        "title": "Perdido em Marte",
+        "poster": "https://image.tmdb.org/t/p/original/7HpCryA4sxO8Y5T3a5thqb3Jh9r.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/tsmpNFg9zINI6fL7SIkwIH25dye.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+        "date_added": "2025-07-08",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caef0861f0944fbf707467ab74fd6807568f44ed(4K - DUAL AUDIO - VIP)"
+        ]
     }
 ]
