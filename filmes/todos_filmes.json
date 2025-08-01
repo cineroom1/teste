@@ -3,6 +3,130 @@
         "status": "on"
     },
     {
+        "tmdb_id": 9806,
+        "popularity": 15.4177,
+        "trending": false,
+        "4K": true,
+        "title": "Os Incriveis",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86d6aed525ddb1dfd437299dde04815c66782766(4K - DUAL AUDIO)",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e029098d27c543891bd3ac29fd473e80377b954a(DUAL AUDIO)"
+        ],
+        "year": 2004,
+        "genres": [
+            "Ação",
+            "Aventura",
+            "Animação",
+            "Família"
+        ],
+        "actors": [
+            "Craig T. Nelson",
+            "Holly Hunter",
+            "Sarah Vowell",
+            "Spencer Fox",
+            "Jason Lee"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/9u27l1k3aUj774xOGCCaVX3iFDu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+        "director": [
+            "Brad Bird"
+        ],
+        "studio": [
+            "Walt Disney Pictures",
+            "Pixar"
+        ],
+        "rating": 7.713,
+        "runtime": 115,
+        "premiered": "2004-10-27",
+        "synopsis": "Beto Pêra e sua mulher Helena estavam entre os maiores super-heróis do mundo, salvando inúmeras vidas e combatendo o mal diariamente. Quinze anos depois, eles foram forçados a adotar novas identidades e a mudar-se para o subúrbio, onde vivem como cidadãos comuns com seus três filhos, Violeta, Flecha e Zezé. Louco para voltar à ação, Beto tem a sua chance quando uma misteriosa ligação o intima a comparecer a uma ilha distante para receber uma missão ultra-secreta. Ele logo descobre que só uma família inteira de super-heróis será capaz de salvar o mundo e impedir sua total destruição.",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/xjCHaP3gEe9KMz8d9He9Fiz4hTl.png",
+        "type": "movie",
+        "providers": [
+            "Disney Plus"
+        ],
+        "original_language": "en",
+        "status": "Released",
+        "collection": "Os Incríveis: Coleção",
+        "vote_count": 18060,
+        "imdb_id": "tt0317705",
+        "revenue": 631442092,
+        "certification": "L",
+        "keywords": [
+            "hero",
+            "secret identity",
+            "superhero",
+            "villain",
+            "family relationships",
+            "super power",
+            "supervillain",
+            "1950s",
+            "1960s",
+            "superhero family"
+        ],
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=P7KMDFpqXqk"
+    },
+    {
+        "tmdb_id": 260513,
+        "popularity": 9.6805,
+        "trending": false,
+        "title": "Os Incriveis 2",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d6c62121d4fd465bd3ed4df4bf83290c0b7815(DUAL AUDIO)"
+        ],
+        "year": 2018,
+        "genres": [
+            "Ação",
+            "Aventura",
+            "Animação",
+            "Família"
+        ],
+        "actors": [
+            "Craig T. Nelson",
+            "Holly Hunter",
+            "Sarah Vowell",
+            "Huck Milner",
+            "Catherine Keener"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/eoSgEzw9LrXFPPjny5CvUEjxUrJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+        "director": [
+            "Brad Bird"
+        ],
+        "studio": [
+            "Walt Disney Pictures",
+            "Pixar"
+        ],
+        "rating": 7.456,
+        "runtime": 118,
+        "premiered": "2018-06-14",
+        "synopsis": "Helena é chamada para liderar uma campanha para trazer os superheróis de volta. Enquanto Roberto deve enfrentar os desafios heroicos do dia a dia da vida doméstica. Mas quando um novo vilão aparece com um plano brilhante e perigoso, a família Pêra enfrenta o desafio juntos  com Gelado do lado deles.",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/6IsQ77YPv3VcGrWZNr1mpxEx4OQ.png",
+        "type": "movie",
+        "providers": [
+            "Disney Plus"
+        ],
+        "original_language": "en",
+        "status": "Released",
+        "collection": "Os Incríveis: Coleção",
+        "vote_count": 13120,
+        "imdb_id": "tt3606756",
+        "revenue": 1242805359,
+        "certification": "L",
+        "keywords": [
+            "married couple",
+            "superhero",
+            "cartoon",
+            "villain",
+            "sequel",
+            "parenting",
+            "family",
+            "super power",
+            "female villain",
+            "supervillain"
+        ],
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=8NURuV5GmPY"
+    },
+    {
         "tmdb_id": 1071585,
         "title": "M3GAN 2.0",
         "date_added": "2025-07-16",
