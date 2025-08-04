@@ -11,6 +11,16 @@
         "action": "search_videos",
         "status": "on"
     },
+	    {
+        "action": "list_by_date_added",
+        "description": "Veja os filmes e séries adicionados recentemente ao catálogo.",
+        "fanart": "https://exemplo.com/fanart_recentes.jpg",
+        "icon": "https://exemplo.com/icone_recentes.png",
+        "menu_key": "Recem Adicionados",
+        "menu_title": "Recentes",
+        "poster": "https://archive.org/download/contato_202505/recentes.png",
+        "status": "on"
+    },
     {
         "menu_title": "Filmes",
         "menu_key": "Filmes",
