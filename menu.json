@@ -26,7 +26,7 @@
                 "description": "Filmes recomendados",
                 "action": "recommend_movies",
 				"cache_time": 6,
-                "requires_watched": true
+                "requires_watched": false
             },
             {
                 "categories": "Mais Populares",
@@ -61,7 +61,7 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Todos os Filmes em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/todos_filmes.json",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/main/cineroom/movies/lista.filmes.json",
                 "sort_method": "label"
             }
         ]
