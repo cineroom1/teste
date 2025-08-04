@@ -19,13 +19,21 @@
         "description": "Variedade incrivel de Filmes disponiveis para voce",
         "status": "on",
         "subcategorias": [
+		    {
+                "categories": "Recomendações",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Filmes recomendados",
+                "action": "recommend_movies",
+				"cache_time": 6,
+                "requires_watched": true
+            },
             {
                 "categories": "Mais Populares",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes mais assistidos",
-                "action": "list_movies_by_popularity",
-                "is_vip": true
+                "action": "list_movies_by_popularity"
             },
             {
                 "categories": "Melhores Avaliados",
@@ -33,20 +41,6 @@
                 "backdrop": "https://exemplo.com/backdrop_rating.jpg",
                 "description": "Filmes com as melhores avaliações",
                 "action": "list_movies_by_rating"
-            },
-            {
-                "categories": "Nos Cinemas",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_atores.jpg",
-                "description": "Filmes em HDCam",
-                "action": "list_movies_in_cinemas"
-            },
-            {
-                "categories": "4K Ultra HD",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes com qualidade 4K para uma experiência imersiva",
-                "action": "list_4k_movies"
             },
             {
                 "categories": "Coleções",
