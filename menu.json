@@ -26,14 +26,7 @@
                 "description": "Filmes recomendados",
                 "action": "recommend_movies",
 				"cache_time": 6,
-                "requires_watched": false 
-            },
-			{
-                "categories": "Notas Dos Usuarios",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes mais assistidos",
-                "action": "list_top_rated_movies"
+                "requires_watched": true 
             },
             {
                 "categories": "Mais Populares",
