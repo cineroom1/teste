@@ -3,195 +3,249 @@
         "status": "on"
     },
     {
-        "menu_title": "Pesquisar",
-        "menu_key": "Pesquisar",
-        "poster": "https://archive.org/download/em_alta/search.png",
-        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "search_videos",
-        "status": "on"
-    },
-	    {
-        "action": "list_by_date_added",
-        "description": "Veja os filmes e séries adicionados recentemente ao catálogo.",
-        "fanart": "https://exemplo.com/fanart_recentes.jpg",
-        "icon": "https://exemplo.com/icone_recentes.png",
-        "menu_key": "Recem Adicionados",
-        "menu_title": "Recentes",
-        "poster": "https://archive.org/download/contato_202505/recentes.png",
-        "status": "on"
+        "menu_key": "Pesquisar",
+        "menu_title": "Pesquisar",
+        "description": "Procure por qualquer título no catálogo.",
+        "poster": "https://archive.org/download/filmes_20250929/lupa.png"
     },
     {
-        "menu_title": "Filmes",
+        "description": "Variedade incrível de filmes para você.",
+        "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "menu_key": "Filmes",
-        "poster": "https://archive.org/download/em_alta/filmes.png",
-        "fanart": "https://exemplo.com/fanart_filmes.jpg",
-        "description": "Variedade incrivel de Filmes disponiveis para voce",
+        "menu_title": "Filmes",
+        "poster": "https://archive.org/download/filmes_20250929/filmes.png",
         "status": "on",
         "subcategorias": [
             {
-                "categories": "Mais Populares",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes mais assistidos",
+                "action": "list_recently_added",
+                "categories": "Recentes",
+                "description": "Filmes adicionados recentemente",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png"
+            },
+            {
+                "action": "list_most_searched",
+                "categories": "Em Alta",
+                "description": "Filmes mais buscados no addon",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png"
+            },
+            {
                 "action": "list_movies_by_popularity",
-				"is_vip": true
-            },
-            {
-                "categories": "Melhores Avaliados",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_rating.jpg",
-                "description": "Filmes com as melhores avaliações",
-                "action": "list_movies_by_rating",
-				"is_vip": false
-            },
-            {
-                "categories": "Coleções",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
-                "description": "Explore as maiores franquias e coleções de filmes",
-                "action": "list_collections",
-				"is_vip": false
-            },
-            {
-                "categories": "Por Gênero",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_generos.jpg",
-                "description": "Filmes organizados por gênero",
-                "action": "list_genres",
-				"is_vip": false
-            },
-            {
-                "categories": "Todos os Filmes",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Todos os Filmes em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/main/cineroom/movies/lista.filmes.json",
-                "sort_method": "label",
-				"is_vip": false
-            }
-        ]
-    },
-    {
-        "menu_title": "Séries",
-        "menu_key": "Séries",
-        "poster": "https://archive.org/download/em_alta/series.png",
-        "fanart": "https://exemplo.com/fanart_series.jpg",
-        "status": "on",
-        "description": "Variedade incrivel de Séries disponiveis para voce",
-        "subcategorias": [
-            {
                 "categories": "Mais Populares",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
-                "description": "Séries mais populares",
-                "action": "list_series_by_popularity",
-				"is_vip": false
+                "description": "Os filmes mais populares, melhores avaliados e maiores bilheterias.",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png"
             },
             {
-                "categories": "Melhores Avaliadas",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
-                "description": "Séries com as melhores avaliações",
-                "action": "list_series_by_rating",
-				"is_vip": false
+                "action": "list_4k_movies",
+                "categories": "4K Ultra HD",
+                "description": "Filmes com qualidade 4K para uma experiência imersiva.",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png"
             },
             {
-                "categories": "Infantil",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_generos.jpg",
-                "description": "Séries com classificação L ou Kids",
-                "action": "list_kids_series",
-				"is_vip": false
+                "action": "list_collections",
+                "categories": "Coleções",
+                "description": "As maiores franquias e coleções de filmes.",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png"
             },
             {
-                "categories": "Por Plataforma",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
-                "description": "Séries organizadas por plataforma de streaming",
-                "action": "list_series_studios",
-				"is_vip": false
+                "action": "list_genres",
+                "categories": "Gêneros",
+                "description": "Filmes organizados por gênero.",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png"
             },
             {
-                "categories": "Animes",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
-                "description": "Aba especifica para animes",
-                "action": "list_anime_series",
-				"is_vip": true
-            },
-            {
-                "categories": "Novelas",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
-                "description": "Aba especifica para novelas",
-                "action": "list_novela_series",
-				"is_vip": false
-            },
-            {
-                "categories": "Todas as Séries",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "Todas as Séries em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/series/exemplo2_series.json",
-                "sort_method": "label",
-				"is_vip": false
+                "action": "list_providers",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "categories": "Streamings",
+                "description": "Filtre por Provedores",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png"
             }
         ]
     },
     {
-        "menu_title": "Exclusivo [COLOR gold]★[/COLOR]",
-        "menu_key": "Vip",
-        "poster": "https://archive.org/download/exclusivo_202508/exclusivo.png",
-        "fanart": "https://exemplo.com/fanart_filmes.jpg",
-        "description": "Area exclusiva para apoiadores do addon!",
+        "description": "Variedade incrível de séries para você.",
+        "fanart": "https://exemplo.com/fanart_series.jpg",
+        "menu_key": "Séries",
+        "menu_title": "Séries",
+        "poster": "https://archive.org/download/filmes_20250929/series.png",
         "status": "on",
         "subcategorias": [
             {
-                "categories": "4K Ultra HD [Remux]",
-                "poster": "https://archive.org/download/exclusivo_202508/4k.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes em 4k remux",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/exemplo_vip.json",
-                "sort_method": "rating",
-                "is_vip": true
+                "action": "list_recently_added_series",
+                "categories": "Recentes",
+                "description": "Séries adicionadas recentemente",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png"
             },
             {
-                "categories": "1080P [Remux]",
-                "poster": "https://archive.org/download/exclusivo_202508/1080p%20%281%29.png",
-                "backdrop": "https://exemplo.com/backdrop_rating.jpg",
-                "description": "Filmes em 1080P remux",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/exemplo_vip2.json",
-                "sort_method": "rating",
-                "is_vip": true
+                "action": "list_most_searched_tvshows",
+                "categories": "Em Alta",
+                "description": "Séries mais buscadas no addon",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png"
             },
             {
-                "categories": "3D [Remux]",
-                "poster": "https://archive.org/download/exclusivo_202508/3D.png",
-                "backdrop": "https://exemplo.com/backdrop_rating.jpg",
-                "description": "Filmes em 1080P remux",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/main/filmes/exemplo_vip3.json",
-                "sort_method": "rating",
-                "is_vip": true
+                "action": "list_series_by_popularity",
+                "categories": "Mais Populares",
+                "description": "As séries mais populares e melhores avaliadas.",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png"
+            },
+            {
+                "action": "list_series_genres",
+                "categories": "Gêneros",
+                "description": "Séries organizadas por gênero.",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png"
+            },
+            {
+                "action": "list_anime_series",
+                "categories": "Animes",
+                "description": "Aba específica para animes.",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png"
+            },
+            {
+                "action": "list_kids_series",
+                "categories": "Infantil",
+                "description": "Séries com classificação L ou Kids.",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png"
+            },
+            {
+                "action": "list_series_providers",
+                "categories": "Streamings",
+                "description": "Filtre por Provedores",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png"
             }
         ]
     },
     {
-        "menu_title": "Minha Lista",
-        "menu_key": "Minha Lista",
-        "poster": "https://archive.org/download/em_alta/minha_lista.png",
-        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "menu_title": "Exclusivo",
+        "menu_key": "Exclusivo",
+		"is_vip": true,
+        "poster": "https://archive.org/download/exclusivo_202508/exclusivo.png",
+        "description": "Area destinada a doadores. Acesso limitado!\nConteudos disponiveis:\n\nAnimes\nFilmes\nFilmes em 4K Remux\nSéries\nNovelas e muito mais!",
+        "subcategorias": [
+		    {
+                "categories": "Pesquisar no Conteúdo VIP...",
+                "action": "start_search",
+                "poster": "https://archive.org/download/filmes_20250929/lupa.png"
+            },
+            {
+                "categories": "Filmes",
+                "description": "Explore por gênero, plataforma, ano e mais.",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                "subcategorias": [
+                    {
+                        "action": "list_new_source",
+                        "categories": "2025",
+                        "path": "/1:/Filmes/2025/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "movie"
+                    },
+                    {
+                        "action": "list_new_source",
+                        "categories": "2024",
+                        "path": "/1:/Filmes/2025/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "movie"
+                    },
+                    {
+                        "action": "list_new_source",
+                        "categories": "Animação",
+                        "path": "/1:/Filmes/Filmes%20Animação%20(1019)/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "movie"
+                    },
+                    {
+                        "action": "list_new_source",
+                        "categories": "4K",
+                        "path": "/1:/Filmes/Filmes%204k%20(227)/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "movie"
+                    },
+                    {
+                        "action": "list_new_source",
+                        "categories": "Antigos",
+                        "path": "/1:/Filmes/Filmes%20Antigos%20(4054)/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "movie"
+                    },
+                    {
+                        "action": "list_new_source",
+                        "categories": "Ordem Alfabaetica",
+                        "path": "/1:/Filmes/Filmes%20(5519)/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "movie"
+                    }
+                ]
+            },
+            {
+                "categories": "Séries",
+                "description": "Explore por gênero, plataforma, ano e mais.",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                "subcategorias": [
+                    {
+                        "action": "list_new_source",
+                        "categories": "Todas as Séries",
+                        "path": "/1:/Séries/Séries%20Misturado/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "tv"
+                    },
+                    {
+                        "action": "list_new_source",
+                        "categories": "Animes",
+                        "path": "/0:/Animes/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "tv"
+                    },
+                    {
+                        "action": "list_new_source",
+                        "categories": "Desenhos",
+                        "path": "/0:/Desenhos/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "tv"
+                    },
+                    {
+                        "action": "list_new_source",
+                        "categories": "Novelas",
+                        "path": "/0:/Novelas/",
+                        "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                        "media_type": "tv"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "action": "list_favorites",
-        "description": "Aba exclusiva para salvar seus Filmes e Séries favortias!",
+        "description": "Aba exclusiva para salvar seus Filmes e Séries favoritos!",
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "menu_key": "Minha Lista",
+        "menu_title": "Minha Lista",
+        "poster": "https://archive.org/download/filmes_20250929/sua_lista.png",
         "status": "on"
     },
     {
-        "menu_title": "Limpar Cache",
-        "poster": "https://archive.org/download/em_alta/cache.png",
-        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "icon": "https://exemplo.com/icone_favoritos.png",
-        "action": "clear_cache",
-        "description": "O Cache é recarregado a cada 12 / 24 Horas. Não limpe com frequencia!",
-        "status": "on"
+        "fanart": "https://exemplo.com/fanart_series.jpg",
+        "menu_key": "Informações",
+        "menu_title": "Informações",
+        "poster": "https://archive.org/download/filmes_20250929/infos.png",
+        "status": "on",
+        "subcategorias": [
+            {
+                "action": "show_about",
+                "categories": "Changelog",
+                "description": "Mudanças e atualizações no addon.",
+                "poster": "https://archive.org/download/em_alta/changelog.png"
+            },
+            {
+                "action": "clear_cache",
+                "categories": "Limpar Cache",
+                "description": "O cache é recarregado a cada 12/24 horas. Não limpe com frequência!",
+                "poster": "https://archive.org/download/em_alta/cache.png"
+            },
+            {
+                "action": "show_donation",
+                "categories": "Doação",
+                "description": "Sua colaboração é de extrema importância para o projeto.\n\n[COLOR yellow]META[/COLOR]: 400,00\n[B]DOADOS[/B]: 15,00",
+                "poster": "https://archive.org/download/em_alta/doa%C3%A7%C3%A3o.png"
+            }
+        ]
     }
 ]
