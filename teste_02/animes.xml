@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<conteudos>
+  
+  <!-- ANIME LONGA DURAÇÃO -->
+  <item>
+    <title>[B]ANIME: One Piece - Dual (1999-)[/B]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5W6X2N8P9Q0R1S2T3U4V5W6X7Y8Z.jpg</fanart>
+    <genre>Anime,Aventura,Comédia,Ação</genre>
+    <info>
+      <![CDATA[
+      Estúdio: Toei Animation
+      Ano: 1999-
+      Episódios: 1100+
+      Sinopse: Monkey D. Luffy e sua tripulação de piratas, chamados de Piratas do Chapéu de Palha, exploram o oceano em busca do tesouro mundial conhecido como "One Piece".
+      ]]>
+    </info>
+    
+    <!-- ARCO EAST BLUE -->
+    <arco nome="Saga East Blue" episodios="1-61">
+      <episodio numero="1">
+        <title>Eu Sou Luffy! O Homem Que Vai Ser o Rei dos Piratas!</title>
+        <urlsolve>https://anime.com/one-piece/ep1-dub.mp4$$lsname=Ep 1 | Dublado</urlsolve>
+        <urlsolve>https://anime.com/one-piece/ep1-sub.mp4$$lsname=Ep 1 | Legendado</urlsolve>
+      </episodio>
+      <!-- Continuar -->
+    </arco>
+    
+    <!-- ARCO ALABASTA -->
+    <arco nome="Saga Alabasta" episodios="62-135">
+      <episodio numero="62">
+        <title>A Primeira Aparição! O Homem Que Se Autointitula Guardião Mágico!</title>
+        <urlsolve>https://anime.com/one-piece/ep62-dub.mp4$$lsname=Ep 62 | Dublado</urlsolve>
+      </episodio>
+      <!-- Continuar -->
+    </arco>
+    
+  </item>
+
+  <!-- ANIME TEMPORADA -->
+  <item>
+    <title>[B]ANIME: Jujutsu Kaisen - Dual (2020-)[/B]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9A1V7X2B3C4D5E6F7G8H9I0J1K2L.jpg</fanart>
+    <genre>Anime,Ação,Sobrenatural,Terror</genre>
+    <info>
+      <![CDATA[
+      Estúdio: MAPPA
+      Ano: 2020-
+      Temporadas: 2
+      Episódios: 47
+      Sinopse: Yuji Itadori come uma maldição para salvar seus amigos e se torna o hospedeiro de Ryomen Sukuna, o Rei das Maldições.
+      ]]>
+    </info>
+    
+    <temporada numero="1" ano="2020" episodios="24">
+      <episodio numero="1">
+        <title>Ryomen Sukuna</title>
+        <magnet>jujutsu_kaisen_s01e01_hash</magnet>
+        <urlsolve>https://anime.com/jujutsu-kaisen/s01e01-dub.mp4$$lsname=T01E01 | Dublado</urlsolve>
+        <urlsolve>https://anime.com/jujutsu-kaisen/s01e01-sub.mp4$$lsname=T01E01 | Legendado</urlsolve>
+      </episodio>
+      <!-- Continuar -->
+    </temporada>
+    
+    <temporada numero="2" ano="2023" episodios="23">
+      <episodio numero="1">
+        <title>Esconderijo</title>
+        <magnet>jujutsu_kaisen_s02e01_hash</magnet>
+        <urlsolve>https://anime.com/jujutsu-kaisen/s02e01-dub.mp4$$lsname=T02E01 | Dublado</urlsolve>
+      </episodio>
+      <!-- Continuar -->
+    </temporada>
+    
+  </item>
+
+  <!-- ANIME DUBLADO COMPLETO -->
+  <item>
+    <title>[B]ANIME: Attack on Titan - Dublado (2013-2023)[/B]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/h8LZY6mGPKkLZ3L9p3Tvzql5U8u.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6M7P5N8Q9R0S1T2U3V4W5X6Y7Z8A.jpg</fanart>
+    <genre>Anime,Ação,Drama,Ficção</genre>
+    <info>
+      <![CDATA[
+      Estúdio: Wit Studio, MAPPA
+      Ano: 2013-2023
+      Temporadas: 4
+      Episódios: 94
+      Sinopse: Em um mundo onde a humanidade vive dentro de cidades cercadas por enormes muralhas devido aos Titãs, Eren Yeager jura vingar a humanidade.
+      ]]>
+    </info>
+    
+    <temporada numero="1" ano="2013" episodios="25">
+      <episodio numero="1">
+        <title>Aos Você, 2.000 Anos no Futuro: O Grito do Desespero</title>
+        <urlsolve>https://archive.org/download/aot-s01e01-dub/Attack.on.Titan.S01E01.DUB.mp4$$lsname=T01E01 | Dublado</urlsolve>
+      </episodio>
+      <!-- Continuar -->
+    </temporada>
+    
+    <temporada numero="4" ano="2022" episodios="28">
+      <episodio numero="1">
+        <title>A Outra Face dos Dois</title>
+        <urlsolve>https://archive.org/download/aot-s04e01-dub/Attack.on.Titan.S04E01.DUB.mp4$$lsname=T04E01 | Dublado</urlsolve>
+      </episodio>
+      <!-- Continuar -->
+    </temporada>
+    
+  </item>
+
+  <!-- ANIME FILME -->
+  <item>
+    <title>[B]ANIME-FILME: Suzume - Dublado (2022)[/B]</title>
+    <magnet>suzume_filme_hash_torrent</magnet>
+    <urlsolve>https://archive.org/download/suzume-2022-dub/Suzume.2022.1080p.DUB.mp4$$lsname=Suzume | 1080p Dublado</urlsolve>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9Q0R1S2T3U4V5W6X7Y8Z0A1B2C3D.jpg</fanart>
+    <genre>Anime,Aventura,Drama</genre>
+    <info>
+      <![CDATA[
+      Diretor: Makoto Shinkai
+      Ano: 2022
+      Duração: 122 min
+      Sinopse: Suzume, uma menina de 17 anos, encontra um jovem misterioso que procura uma "porta". Ela o segue até uma área abandonada e encontra uma porta que começa uma série de desastres.
+      ]]>
+    </info>
+  </item>
+
+  <!-- ANIME EM PORTUGUÊS DE PORTUGAL -->
+  <item>
+    <title>[B]ANIME: Dragon Ball Super - Tuga (2015-2018)[/B]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8oBcQ9tCq2dD0NlO3f5G6H7J8K9L.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1M2N3O4P5Q6R7S8T9U0V1W2X3Y4Z.jpg</fanart>
+    <genre>Anime,Ação,Aventura</genre>
+    <info>
+      <![CDATA[
+      Estúdio: Toei Animation
+      Ano: 2015-2018
+      Episódios: 131
+      Sinopse: Continuação de Dragon Ball Z que segue Goku e seus amigos depois da derrota de Majin Buu.
+      ]]>
+    </info>
+    
+    <temporada numero="1" ano="2015" episodios="131">
+      <episodio numero="1">
+        <title>A Paz Retorna / Os Deuses da Destruição Despertam</title>
+        <urlsolve>https://animept.com/dbs/ep1-tuga.mp4$$lsname=Ep 1 | Português PT</urlsolve>
+      </episodio>
+      <!-- Continuar -->
+    </temporada>
+    
+  </item>
+
+</conteudos>
