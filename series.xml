@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series_list>
+    <series>
+        <id>tt0944947</id>
+        <title>Game of Thrones</title>
+        <original_title>Game of Thrones</original_title>
+        <year>2011</year>
+        <genre>Aventura, Drama, Fantasia</genre>
+        <rating>9.3</rating>
+        <votes>2000000</votes>
+        <popularity>100</popularity>
+        <plot>Nove famílias nobres lutam pelo controle das terras míticas de Westeros, enquanto um inimigo antigo retorna depois de estar adormecido por milênios.</plot>
+        <cast>Emilia Clarke, Peter Dinklage, Kit Harington</cast>
+        <poster>https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg</poster>
+        <fanart>https://image.tmdb.org/t/p/original/fanart.jpg</fanart>
+        <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
+        <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
+        <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
+        <status>Finalizada</status>
+        
+        <seasons>
+            <season>
+                <id>got-s1</id>
+                <season_number>1</season_number>
+                <title>Temporada 1</title>
+                <plot>Ned Stark aceita se tornar a Mão do Rei, desencadeando eventos que mudarão Westeros para sempre.</plot>
+                <poster>https://image.tmdb.org/t/p/w500/season1.jpg</poster>
+                
+                <episodes>
+                    <episode>
+                        <id>got-s1e1</id>
+                        <episode_number>1</episode_number>
+                        <title>O Inverno Está Chegando</title>
+                        <plot>Ned Stark é chamado para servir como Mão do Rei Robert Baratheon.</plot>
+                        <duration>62</duration>
+                        <stream_url>https://exemplo.com/stream/got-s1e1.m3u8</stream_url>
+                        <thumbnail>https://image.tmdb.org/t/p/w500/ep1.jpg</thumbnail>
+                    </episode>
+                    
+                    <episode>
+                        <id>got-s1e2</id>
+                        <episode_number>2</episode_number>
+                        <title>A Estrada Real</title>
+                        <plot>A família Stark se separa enquanto Ned parte para Porto Real.</plot>
+                        <duration>56</duration>
+                        <stream_url>https://exemplo.com/stream/got-s1e2.m3u8</stream_url>
+                        <thumbnail>https://image.tmdb.org/t/p/w500/ep2.jpg</thumbnail>
+                    </episode>
+                </episodes>
+            </season>
+            
+            <season>
+                <id>got-s2</id>
+                <season_number>2</season_number>
+                <title>Temporada 2</title>
+                <plot>Cinco reis reivindicam o Trono de Ferro enquanto o inverno se aproxima.</plot>
+                <poster>https://image.tmdb.org/t/p/w500/season2.jpg</poster>
+                
+                <episodes>
+                    <episode>
+                        <id>got-s2e1</id>
+                        <episode_number>1</episode_number>
+                        <title>O Norte Se Lembra</title>
+                        <plot>Robb Stark marcha para o sul enquanto novos pretendentes ao trono surgem.</plot>
+                        <duration>53</duration>
+                        <stream_url>https://exemplo.com/stream/got-s2e1.m3u8</stream_url>
+                        <thumbnail>https://image.tmdb.org/t/p/w500/ep1.jpg</thumbnail>
+                    </episode>
+                </episodes>
+            </season>
+        </seasons>
+    </series>
+
+    <series>
+        <id>tt0903747</id>
+        <title>Breaking Bad</title>
+        <original_title>Breaking Bad</original_title>
+        <year>2008</year>
+        <genre>Crime, Drama, Thriller</genre>
+        <rating>9.5</rating>
+        <votes>1800000</votes>
+        <popularity>99</popularity>
+        <plot>Um professor de química diagnosticado com câncer no pulmão se volta para a fabricação e venda de metanfetamina para garantir o futuro de sua família.</plot>
+        <cast>Bryan Cranston, Aaron Paul, Anna Gunn</cast>
+        <poster>https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg</poster>
+        <fanart>https://image.tmdb.org/t/p/original/fanart.jpg</fanart>
+        <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
+        <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
+        <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
+        <status>Finalizada</status>
+        
+        <seasons>
+            <!-- Estrutura similar ao Game of Thrones -->
+        </seasons>
+    </series>
+</series_list>
