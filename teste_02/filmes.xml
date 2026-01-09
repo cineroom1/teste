@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<conteudos>
+  
+  <!-- FILME COM MÚLTIPLAS OPÇÕES -->
+  <item>
+    <title>[B]John Wick 4 - Dual (2023)[/B]</title>
+    <magnet>5b4b3e3f5d1a2c3d4e5f6a7b8c9d0e1f2a3b4c5d</magnet>
+    <urlsolve>https://archive.org/download/john-wick-4-2023/John.Wick.4.2023.1080p.DUAL.mp4$$lsname=John Wick 4 | 1080p Dublado</urlsolve>
+    <urlsolve>https://streamtape.com/v/AbCdEfGhIjK1L2M3$$lsname=John Wick 4 | 4K Legendado</urlsolve>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg</fanart>
+    <genre>Ação,Suspense</genre>
+    <info>
+      <![CDATA[
+      Título Original: John Wick: Chapter 4
+      Ano: 2023
+      Duração: 169 min
+      Diretor: Chad Stahelski
+      Elenco: Keanu Reeves, Donnie Yen, Bill Skarsgård
+      Sinopse: John Wick descobre um caminho para derrotar a Alta Cúpula. Mas antes que ele possa ganhar sua liberdade, Wick deve enfrentar um novo inimigo com alianças poderosas em todo o mundo e forças que transformam velhos amigos em inimigos.
+      ]]>
+    </info>
+  </item>
+
+  <!-- FILME NACIONAL -->
+  <item>
+    <title>[B]Tudo em Todo o Lugar ao Mesmo Tempo - Dublado (2022)[/B]</title>
+    <magnet>a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0</magnet>
+    <urlsolve>https://example.com/video/tudo-em-todo-lugar.mp4$$lsname=Tudo em Todo Lugar | 1080p Dublado</urlsolve>
+    <thumbnail>https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg</fanart>
+    <genre>Comédia,Ficção,Aventura</genre>
+    <info>
+      <![CDATA[
+      Título Original: Everything Everywhere All at Once
+      Ano: 2022
+      Duração: 139 min
+      Diretor: Daniel Kwan, Daniel Scheinert
+      Elenco: Michelle Yeoh, Ke Huy Quan, Stephanie Hsu
+      Sinopse: Uma heroína improvável deve usar seus novos poderes para lutar contra os perigos bizarros do multiverso enquanto vive sua vida normal.
+      ]]>
+    </info>
+  </item>
+
+  <!-- FILME DE TERROR -->
+  <item>
+    <title>[B]Midsommar - O Mal Não Espera a Noite - Legendado (2019)[/B]</title>
+    <magnet>b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1</magnet>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1L6gw2PqWqnEwjBZ7Jsm7U0fSJq.jpg</fanart>
+    <genre>Terror,Drama</genre>
+    <info>
+      <![CDATA[
+      Título Original: Midsommar
+      Ano: 2019
+      Duração: 148 min
+      Diretor: Ari Aster
+      Elenco: Florence Pugh, Jack Reynor, Vilhelm Blomgren
+      Sinopse: Um casal viaja para a Suécia visitar o povoado rural de um amigo para participar de um festival de verão, mas o que começa como férias de sonho se transforma em um pesadelo.
+      ]]>
+    </info>
+  </item>
+
+  <!-- FILME COM COLECAO -->
+  <item>
+    <title>[B]COLEÇÃO: Pânico (6 Filmes) - Dual (1996-2023)[/B]</title>
+    <magnet>panico1_hash_torrent</magnet>
+    <magnet>panico2_hash_torrent</magnet>
+    <magnet>panico3_hash_torrent</magnet>
+    <magnet>panico4_hash_torrent</magnet>
+    <magnet>panico5_hash_torrent</magnet>
+    <magnet>panico6_hash_torrent</magnet>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5QEtSGxaH8S1mtM6O5LkOUgWJbI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1n2q0Y4yDmQp7aG8pVq4qJ9Lw4S.jpg</fanart>
+    <genre>Terror,Suspense</genre>
+    <info>
+      <![CDATA[
+      Coleção completa da franquia Pânico:
+      1. Pânico (1996)
+      2. Pânico 2 (1997)
+      3. Pânico 3 (2000)
+      4. Pânico 4 (2011)
+      5. Pânico 5 (2022)
+      6. Pânico 6 (2023)
+      ]]>
+    </info>
+  </item>
+
+  <!-- FILME ANIMAÇÃO -->
+  <item>
+    <title>[B]O Menino e a Garça - Dublado (2023)[/B]</title>
+    <urlsolve>https://archive.org/download/o-menino-e-a-garca-2023/O.Menino.e.a.Garca.2023.1080p.DUB.mp4$$lsname=O Menino e a Garça | 1080p Dublado</urlsolve>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4qOoY0dCjYrG3gMv9k0Vp2q7L6N.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5Q2f8G5g2Y8Jp7K6H3L9M0N1O2P.jpg</fanart>
+    <genre>Animação,Aventura,Drama</genre>
+    <info>
+      <![CDATA[
+      Título Original: The Boy and the Heron
+      Ano: 2023
+      Duração: 124 min
+      Diretor: Hayao Miyazaki
+      Sinopse: Durante a Segunda Guerra Mundial, após perder a mãe, Mahito se muda para o campo. Lá, ele encontra um misterioso mundo habitado por vivos e mortos.
+      ]]>
+    </info>
+  </item>
+
+</conteudos>
