@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<shows>
+<series>
 
 <show>
     <!-- IDs -->
@@ -31,4 +31,25 @@
     
     <!-- NÃO precisa de episódios! TMDB busca automaticamente -->
 </show>
-</shows>
+
+<show>
+    <id>tt0944947</id>
+    <tmdb_id>1399</tmdb_id>
+    <title>Game of Thrones</title>
+    <original_title>Game of Thrones</original_title>
+    <year>2011</year>
+    <genre>Aventura, Drama, Fantasia</genre>
+    <rating>9.3</rating>
+    <votes>2000000</votes>
+    <popularity>99</popularity>
+    <plot>Nove famílias nobres lutam pelo controle...</plot>
+    <cast>Emilia Clarke, Peter Dinklage, Kit Harington</cast>
+    <status>Ended</status>
+    <poster>https://image.tmdb.org/t/p/original/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg</poster>
+    <fanart>https://image.tmdb.org/t/p/original/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+    <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
+    <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
+    <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
+</show>
+
+</series>
