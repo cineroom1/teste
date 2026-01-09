@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shows>
+
 <show>
     <!-- IDs -->
     <id>tt0903747</id>                    <!-- IMDB ID (obrigatório) -->
@@ -28,3 +31,4 @@
     
     <!-- NÃO precisa de episódios! TMDB busca automaticamente -->
 </show>
+</shows>
