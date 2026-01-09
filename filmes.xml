@@ -1,68 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
+    <!-- Agora você só precisa adicionar metadados básicos -->
+    <!-- Os streams vêm automaticamente do Stremio -->
+    
     <movie>
-        <id>tt0111161</id>
-        <title>Um Sonho de Liberdade</title>
-        <original_title>The Shawshank Redemption</original_title>
-        <year>1994</year>
-        <genre>Drama, Crime</genre>
-        <rating>9.3</rating>
-        <votes>2500000</votes>
-        <popularity>100</popularity>
-        <duration>142</duration>
-        <plot>Dois homens presos se reúnem ao longo de vários anos, encontrando consolo e eventual redenção através de atos de decência comum.</plot>
-        <director>Frank Darabont</director>
-        <cast>Tim Robbins, Morgan Freeman, Bob Gunton</cast>
-        <poster>https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg</poster>
-        <fanart>https://image.tmdb.org/t/p/original/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg</fanart>
-        <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
-        <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
-        <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
-        <stream_url>https://exemplo.com/stream/shawshank.m3u8</stream_url>
-        <trailer_url>https://www.youtube.com/watch?v=6hB3S9bIaco</trailer_url>
-    </movie>
-
-    <movie>
-        <id>tt0068646</id>
-        <title>O Poderoso Chefão</title>
-        <original_title>The Godfather</original_title>
-        <year>1972</year>
-        <genre>Drama, Crime</genre>
-        <rating>9.2</rating>
-        <votes>1800000</votes>
-        <popularity>98</popularity>
-        <duration>175</duration>
-        <plot>O patriarca idoso de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.</plot>
-        <director>Francis Ford Coppola</director>
-        <cast>Marlon Brando, Al Pacino, James Caan</cast>
-        <poster>https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg</poster>
-        <fanart>https://image.tmdb.org/t/p/original/fanart.jpg</fanart>
-        <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
-        <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
-        <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
-        <stream_url>https://exemplo.com/stream/godfather.m3u8</stream_url>
-        <trailer_url>https://www.youtube.com/watch?v=sY1S34973zA</trailer_url>
-    </movie>
-
-    <movie>
-        <id>tt0468569</id>
+        <id>tt0468569</id> <!-- IMDB ID obrigatório -->
+        <tmdb_id>155</tmdb_id> <!-- Opcional, mas recomendado -->
         <title>Batman: O Cavaleiro das Trevas</title>
         <original_title>The Dark Knight</original_title>
         <year>2008</year>
         <genre>Ação, Crime, Drama</genre>
         <rating>9.0</rating>
-        <votes>2600000</votes>
-        <popularity>95</popularity>
+        <votes>2500000</votes>
+        <popularity>100</popularity>
         <duration>152</duration>
-        <plot>Quando a ameaça conhecida como O Coringa causa estragos e caos nas pessoas de Gotham, Batman deve aceitar um dos maiores testes psicológicos e físicos.</plot>
+        <plot>Quando a ameaça conhecida como o Coringa surge, a cidade de Gotham entra em caos.</plot>
         <director>Christopher Nolan</director>
         <cast>Christian Bale, Heath Ledger, Aaron Eckhart</cast>
-        <poster>https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg</poster>
-        <fanart>https://image.tmdb.org/t/p/original/fanart.jpg</fanart>
-        <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
-        <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
-        <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
-        <stream_url>https://exemplo.com/stream/darkknight.m3u8</stream_url>
-        <trailer_url>https://www.youtube.com/watch?v=EXeTwQWrcwY</trailer_url>
+        
+        <!-- Arte (opcional - pode buscar automaticamente do TMDB) -->
+        <poster>https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg</poster>
+        <fanart>https://image.tmdb.org/t/p/original/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg</fanart>
+        
+        <!-- NÃO precisa mais de stream_url! -->
     </movie>
+    
+    <movie>
+        <id>tt0816692</id>
+        <tmdb_id>27205</tmdb_id>
+        <title>A Origem</title>
+        <original_title>Inception</original_title>
+        <year>2010</year>
+        <genre>Ação, Ficção, Thriller</genre>
+        <rating>8.8</rating>
+        <plot>Um ladrão que rouba segredos corporativos através do uso da tecnologia de compartilhamento de sonhos.</plot>
+    </movie>
+    
 </movies>
