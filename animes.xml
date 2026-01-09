@@ -1,99 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<animes_list>
+<animes>
+    <!-- Para animes, use AniList ID ou título -->
+    <!-- Episódios vêm automaticamente do AniList -->
+    <!-- Streams vêm automaticamente do Stremio -->
+    
     <anime>
-        <id>mal-5114</id>
-        <title>Fullmetal Alchemist: Brotherhood</title>
-        <original_title>鋼の錬金術師 FULLMETAL ALCHEMIST</original_title>
-        <year>2009</year>
-        <genre>Ação, Aventura, Drama, Fantasia</genre>
-        <rating>9.1</rating>
-        <votes>850000</votes>
-        <popularity>100</popularity>
-        <plot>Dois irmãos buscam a Pedra Filosofal depois de uma tentativa de ressuscitar sua mãe dar terrivelmente errado.</plot>
-        <cast>Romi Park, Rie Kugimiya, Shinichiro Miki</cast>
-        <poster>https://cdn.myanimelist.net/images/anime/1223/96541.jpg</poster>
-        <fanart>https://image.tmdb.org/t/p/original/fanart.jpg</fanart>
-        <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
-        <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
-        <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
-        <status>Finalizado</status>
-        
-        <seasons>
-            <season>
-                <id>fma-s1</id>
-                <season_number>1</season_number>
-                <title>Temporada Completa</title>
-                <plot>A jornada completa dos irmãos Elric em busca da Pedra Filosofal.</plot>
-                <poster>https://cdn.myanimelist.net/images/anime/1223/96541.jpg</poster>
-                
-                <episodes>
-                    <episode>
-                        <id>fma-s1e1</id>
-                        <episode_number>1</episode_number>
-                        <title>Fullmetal Alchemist</title>
-                        <plot>Edward e Alphonse Elric são apresentados enquanto procuram a Pedra Filosofal.</plot>
-                        <duration>24</duration>
-                        <stream_url>https://exemplo.com/stream/fma-s1e1.m3u8</stream_url>
-                        <thumbnail>https://cdn.myanimelist.net/images/anime/ep1.jpg</thumbnail>
-                    </episode>
-                    
-                    <episode>
-                        <id>fma-s1e2</id>
-                        <episode_number>2</episode_number>
-                        <title>O Primeiro Dia</title>
-                        <plot>Flashback mostrando como os irmãos perderam seus corpos.</plot>
-                        <duration>24</duration>
-                        <stream_url>https://exemplo.com/stream/fma-s1e2.m3u8</stream_url>
-                        <thumbnail>https://cdn.myanimelist.net/images/anime/ep2.jpg</thumbnail>
-                    </episode>
-                </episodes>
-            </season>
-        </seasons>
-    </anime>
-
-    <anime>
-        <id>mal-16498</id>
-        <title>Attack on Titan</title>
+        <anilist_id>16498</anilist_id> <!-- ID do AniList -->
+        <mal_id>16498</mal_id> <!-- ID do MyAnimeList -->
+        <title>Shingeki no Kyojin</title>
         <original_title>進撃の巨人</original_title>
         <year>2013</year>
-        <genre>Ação, Drama, Fantasia, Mistério</genre>
-        <rating>8.9</rating>
-        <votes>720000</votes>
-        <popularity>98</popularity>
-        <plot>Após seu vilarejo ser destruído e sua mãe morta, Eren Yeager jura vingar-se dos Titãs colossos que devastam a humanidade.</plot>
-        <cast>Yuki Kaji, Marina Inoue, Yui Ishikawa</cast>
-        <poster>https://cdn.myanimelist.net/images/anime/10/47347.jpg</poster>
-        <fanart>https://image.tmdb.org/t/p/original/fanart.jpg</fanart>
-        <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
-        <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
-        <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
-        <status>Finalizado</status>
+        <genre>Ação, Drama, Fantasia</genre>
         
-        <seasons>
-            <!-- Estrutura similar -->
-        </seasons>
+        <!-- Metadados detalhados são buscados automaticamente do AniList -->
+        <!-- Episódios são gerados automaticamente -->
+        <!-- Streams vêm do Stremio -->
     </anime>
-
+    
     <anime>
-        <id>mal-11061</id>
-        <title>Hunter x Hunter</title>
-        <original_title>ハンター×ハンター</original_title>
-        <year>2011</year>
-        <genre>Ação, Aventura, Fantasia</genre>
-        <rating>9.0</rating>
-        <votes>650000</votes>
-        <popularity>95</popularity>
-        <plot>Gon Freecss aspira se tornar um Hunter para encontrar seu pai, um Hunter lendário que o abandonou quando criança.</plot>
-        <cast>Megumi Han, Mariya Ise, Keiji Fujiwara</cast>
-        <poster>https://cdn.myanimelist.net/images/anime/1337/99013.jpg</poster>
-        <fanart>https://image.tmdb.org/t/p/original/fanart.jpg</fanart>
-        <banner>https://image.tmdb.org/t/p/original/banner.jpg</banner>
-        <clearlogo>https://image.tmdb.org/t/p/original/logo.png</clearlogo>
-        <landscape>https://image.tmdb.org/t/p/original/landscape.jpg</landscape>
-        <status>Finalizado</status>
-        
-        <seasons>
-            <!-- Estrutura similar -->
-        </seasons>
+        <anilist_id>21</anilist_id>
+        <mal_id>21</mal_id>
+        <title>One Piece</title>
+        <year>1999</year>
     </anime>
-</animes_list>
+    
+    <anime>
+        <anilist_id>1535</anilist_id>
+        <mal_id>1535</mal_id>
+        <title>Death Note</title>
+        <year>2006</year>
+    </anime>
+    
+</animes>
