@@ -1,34 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <animes>
-    <!-- Para animes, use AniList ID ou título -->
-    <!-- Episódios vêm automaticamente do AniList -->
-    <!-- Streams vêm automaticamente do Stremio -->
+    <!-- XML contém TODOS os metadados do anime -->
+    <!-- EPISÓDIOS vêm do AniList automaticamente -->
+    <!-- STREAMS vêm do Stremio automaticamente -->
     
     <anime>
-        <anilist_id>16498</anilist_id> <!-- ID do AniList -->
-        <mal_id>16498</mal_id> <!-- ID do MyAnimeList -->
+        <id>tt2560140</id> <!-- IMDB ID (se existir) para buscar streams -->
+        <anilist_id>16498</anilist_id> <!-- AniList ID obrigatório para buscar episódios -->
+        <mal_id>16498</mal_id> <!-- MyAnimeList ID (opcional) -->
         <title>Shingeki no Kyojin</title>
         <original_title>進撃の巨人</original_title>
         <year>2013</year>
-        <genre>Ação, Drama, Fantasia</genre>
+        <genre>Ação, Drama, Fantasia, Mistério</genre>
+        <rating>8.9</rating>
+        <votes>450000</votes>
+        <popularity>95</popularity>
+        <plot>Séculos atrás, a humanidade foi massacrada quase à extinção por monstruosas criaturas humanoides chamadas Titãs, forçando os humanos a se esconderem atrás de muralhas concêntricas gigantes.</plot>
+        <cast>Yuki Kaji, Marina Inoue, Hiroshi Kamiya</cast>
+        <studio>Wit Studio, MAPPA</studio>
+        <status>Finished Airing</status>
         
-        <!-- Metadados detalhados são buscados automaticamente do AniList -->
-        <!-- Episódios são gerados automaticamente -->
-        <!-- Streams vêm do Stremio -->
+        <!-- Arte obrigatória -->
+        <poster>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg</poster>
+        <fanart>https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg</fanart>
+        <banner>https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg</banner>
+        <clearlogo>https://exemplo.com/logo.png</clearlogo>
+        <landscape>https://exemplo.com/landscape.jpg</landscape>
+        
+        <!-- NÃO precisa de episódios aqui -->
+        <!-- O addon busca automaticamente via AniList API -->
+        <!-- AniList retorna: Total de episódios, duração média, etc -->
     </anime>
     
     <anime>
+        <id>tt0388629</id>
         <anilist_id>21</anilist_id>
         <mal_id>21</mal_id>
         <title>One Piece</title>
+        <original_title>ワンピース</original_title>
         <year>1999</year>
+        <genre>Ação, Aventura, Comédia, Drama, Fantasia</genre>
+        <rating>8.7</rating>
+        <votes>380000</votes>
+        <popularity>99</popularity>
+        <plot>Monkey D. Luffy parte em uma grande aventura para se tornar o Rei dos Piratas. Ao longo da jornada, ele reúne uma tripulação diversa e enfrenta inimigos poderosos.</plot>
+        <cast>Mayumi Tanaka, Kazuya Nakai, Akemi Okamura, Kappei Yamaguchi</cast>
+        <studio>Toei Animation</studio>
+        <status>Currently Airing</status>
+        <poster>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg</poster>
+        <fanart>https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg</fanart>
+        <banner>https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg</banner>
+        <clearlogo>https://exemplo.com/logo2.png</clearlogo>
+        <landscape>https://exemplo.com/landscape2.jpg</landscape>
     </anime>
     
     <anime>
+        <id>tt0877057</id>
         <anilist_id>1535</anilist_id>
         <mal_id>1535</mal_id>
         <title>Death Note</title>
+        <original_title>デスノート</original_title>
         <year>2006</year>
+        <genre>Mistério, Policial, Sobrenatural, Thriller</genre>
+        <rating>8.6</rating>
+        <votes>520000</votes>
+        <popularity>98</popularity>
+        <plot>Um estudante genial encontra um caderno sobrenatural que permite matar qualquer pessoa cujo nome seja escrito nele, e decide criar um mundo perfeito eliminando criminosos.</plot>
+        <cast>Mamoru Miyano, Kappei Yamaguchi, Shido Nakamura</cast>
+        <studio>Madhouse</studio>
+        <status>Finished Airing</status>
+        <poster>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-4r88a1tsBEIz.jpg</poster>
+        <fanart>https://s4.anilist.co/file/anilistcdn/media/anime/banner/1535.jpg</fanart>
+        <banner>https://s4.anilist.co/file/anilistcdn/media/anime/banner/1535.jpg</banner>
+        <clearlogo>https://exemplo.com/logo3.png</clearlogo>
+        <landscape>https://exemplo.com/landscape3.jpg</landscape>
+    </anime>
+    
+    <anime>
+        <id>tt4508902</id>
+        <anilist_id>20958</anilist_id>
+        <mal_id>30276</mal_id>
+        <title>Boku no Hero Academia</title>
+        <original_title>僕のヒーローアカデミア</original_title>
+        <year>2016</year>
+        <genre>Ação, Comédia, Escolar, Shounen</genre>
+        <rating>8.4</rating>
+        <plot>Em um mundo onde quase todos têm superpoderes, um garoto sem poderes sonha em se tornar o maior herói.</plot>
+        <cast>Daiki Yamashita, Kenta Miyake, Nobuhiko Okamoto</cast>
+        <studio>Bones</studio>
+        <status>Currently Airing</status>
+        <poster>https://exemplo.com/poster4.jpg</poster>
+        <fanart>https://exemplo.com/fanart4.jpg</fanart>
     </anime>
     
 </animes>
