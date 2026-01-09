@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<conteudos>
+  
+  <!-- SÉRIE COM UMA TEMPORADA -->
+  <item>
+    <title>[B]SÉRIE: Stranger Things - Dual (2016-2025)[/B]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg</fanart>
+    <genre>Drama,Ficção,Terror</genre>
+    <info>
+      <![CDATA[
+      Criador: The Duffer Brothers
+      Ano: 2016-2025
+      Temporadas: 5
+      Episódios: 42
+      Sinopse: Um grupo de amigos se envolve em uma série de eventos sobrenaturais na pacata cidade de Hawkins. Eles enfrentam criaturas monstruosas, agências secretas do governo e se aventuram em dimensões paralelas.
+      ]]>
+    </info>
+    
+    <!-- TEMPORADA 1 -->
+    <temporada numero="1" ano="2016">
+      <episodio numero="1">
+        <title>Capítulo Um: O Desaparecimento de Will Byers</title>
+        <urlsolve>https://archive.org/download/stranger-things-s01e01/Stranger.Things.S01E01.1080p.DUAL.mp4$$lsname=T01E01 | 1080p Dual</urlsolve>
+        <magnet>stranger_things_s01e01_hash</magnet>
+      </episodio>
+      <episodio numero="2">
+        <title>Capítulo Dois: A Estranha da Rua Maple</title>
+        <urlsolve>https://archive.org/download/stranger-things-s01e02/Stranger.Things.S01E02.1080p.DUAL.mp4$$lsname=T01E02 | 1080p Dual</urlsolve>
+      </episodio>
+      <!-- Continuar até episódio 8 -->
+    </temporada>
+    
+    <!-- TEMPORADA 2 -->
+    <temporada numero="2" ano="2017">
+      <episodio numero="1">
+        <title>Capítulo Um: MADMAX</title>
+        <urlsolve>https://archive.org/download/stranger-things-s02e01/Stranger.Things.S02E01.1080p.DUAL.mp4$$lsname=T02E01 | 1080p Dual</urlsolve>
+      </episodio>
+      <!-- Mais episódios -->
+    </temporada>
+    
+  </item>
+
+  <!-- SÉRIE BRASILEIRA -->
+  <item>
+    <title>[B]SÉRIE: Cidade Invisível - Dublado (2021-2023)[/B]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/k8Q9uly3LgLwJcXmRZJ4fFO7wbb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5W0d9u3q4BZ6j7v8R9g0H1I2J3K.jpg</fanart>
+    <genre>Drama,Fantasia,Mistério</genre>
+    <info>
+      <![CDATA[
+      Criador: Carlos Saldanha
+      Ano: 2021-2023
+      Temporadas: 2
+      Episódios: 14
+      Sinopse: Um policial em busca de respostas sobre a morte de sua mulher descobre um mundo oculto habitado por entidades folclóricas brasileiras.
+      ]]>
+    </info>
+    
+    <temporada numero="1" ano="2021">
+      <episodio numero="1">
+        <title>Episódio 1</title>
+        <urlsolve>https://example.com/series/cidade-invisivel/s01e01.mp4$$lsname=T01E01 | 1080p Dublado</urlsolve>
+      </episodio>
+      <episodio numero="2">
+        <title>Episódio 2</title>
+        <urlsolve>https://example.com/series/cidade-invisivel/s01e02.mp4$$lsname=T01E02 | 1080p Dublado</urlsolve>
+      </episodio>
+      <!-- Até episódio 7 -->
+    </temporada>
+    
+  </item>
+
+  <!-- SÉRIE EM ANDAMENTO -->
+  <item>
+    <title>[B]SÉRIE: The Last of Us - Dual (2023-)[/B]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6QOZ7wSZwbP2vrbwL4wWRVjSxZf.jpg</fanart>
+    <genre>Aventura,Drama,Terror</genre>
+    <info>
+      <![CDATA[
+      Criador: Craig Mazin, Neil Druckmann
+      Ano: 2023-
+      Temporadas: 2 (previsto)
+      Sinopse: Vinte anos após a destruição da civilização moderna, Joel, um sobrevivente, é contratado para contrabandear Ellie, uma garota de 14 anos, para fora de uma zona de quarentena opressiva.
+      ]]>
+    </info>
+    
+    <temporada numero="1" ano="2023">
+      <episodio numero="1">
+        <title>Quando Você Está Perdido na Escuridão</title>
+        <magnet>the_last_of_us_s01e01_hash</magnet>
+        <urlsolve>https://streamtape.com/v/TLOU0101$$lsname=T01E01 | 1080p Dual</urlsolve>
+      </episodio>
+      <episodio numero="2">
+        <title>Infectado</title>
+        <magnet>the_last_of_us_s01e02_hash</magnet>
+      </episodio>
+      <!-- Até episódio 9 -->
+    </temporada>
+    
+    <temporada numero="2" ano="2025">
+      <episodio numero="1">
+        <title>Em Breve 2025</title>
+        <urlsolve>$$lsname=T02E01 | EM BREVE</urlsolve>
+      </episodio>
+    </temporada>
+    
+  </item>
+
+  <!-- SÉRIE REALITY -->
+  <item>
+    <title>[B]REALITY: Meu Namorado Coreano - Dublado (2025)[/B]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/aiI3uREUvRGa7vawCG58yd4jJz8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/8H9W4N7Q5J6K3L2M1N0O9P8Q7R6T.jpg</fanart>
+    <genre>Reality,Romance</genre>
+    <info>
+      <![CDATA[
+      Ano: 2025
+      Temporadas: 1
+      Episódios: 8
+      Sinopse: Cinco brasileiras, em diferentes níveis de relacionamento, desembarcam na agitada Seul para descobrir se as relações sobreviverão à distância, às diferenças culturais e à nova rotina.
+      ]]>
+    </info>
+    
+    <temporada numero="1" ano="2025">
+      <episodio numero="1">
+        <title>Episódio 1</title>
+        <urlsolve>https://archive.org/download/my-korean-boyfriend-s01e01/My.Korean.Boyfriend.S01E01.1080p.DUB.mp4$$lsname=T01E01 | 1080p Dublado</urlsolve>
+      </episodio>
+      <episodio numero="2">
+        <title>Episódio 2</title>
+        <urlsolve>https://archive.org/download/my-korean-boyfriend-s01e02/My.Korean.Boyfriend.S01E02.1080p.DUB.mp4$$lsname=T01E02 | 1080p Dublado</urlsolve>
+      </episodio>
+      <!-- Até episódio 8 -->
+    </temporada>
+    
+  </item>
+
+</conteudos>
